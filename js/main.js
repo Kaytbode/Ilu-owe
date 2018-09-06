@@ -1,9 +1,9 @@
 
 //grab the yoruba section of the page
-let yoruba = document.querySelector('.yoruba');
+let yoruba = document.querySelector('.yoruba p');
 
 //grab the meaning section of the page
-let meaning = document.querySelector('.meaning');
+let meaning = document.querySelector('.meaning p');
 
 // get length of the proverbs array
 let length = proverbs.length;
@@ -20,5 +20,5 @@ const displayProverb = ()=>{
     meaning.textContent = proverbs[index].eng;
 }
 
-// change the content every 10 secs
-let proverbInterval = window.setInterval(displayProverb, 10000);
+// change the content every 60 secs
+let proverbInterval = window.setInterval(displayProverb, 60000);

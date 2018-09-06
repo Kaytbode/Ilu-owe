@@ -1,6 +1,7 @@
 body,
 h1,
-h2 {
+h2,
+h3 {
     margin: 0;
     padding: 0;
 }
@@ -23,18 +24,25 @@ section {
     padding: 1em;
     text-align: center;
     font-size: 1.3em;
-    font-display: 'Kosugi', sans-serif;
+    font-family: 'Kosugi', sans-serif;
+    font-weight: 500;
+}
+
+h3 {
+    font-size: 14px;
+    text-align: left;
+    font-weight: 100;
 }
 
 .yoruba {
     font-size: 1.5em;
-    padding: 70px 1em 0;
 }
 
 .meaning {
-    font-style: italic;
+    font-family: 'Bad Script', cursive;
 }
 
 hr {
     width: 80%;
+    border: 1px solid black;
 }
