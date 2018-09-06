@@ -1,11 +1,11 @@
 # Ilu owe - Proverbs city
 A responsive offline web application, that displays at random the proverbs of the 
-yoruba people(an ethnic group in Nigeria), and the translations in english. The
+yoruba people(an ethnic group in Nigeria), and their meanings in english. The
 proverbs can be tweeted when online.
 
 ## Installation
 You can add application to homescreen through the **Add to homescreen** button 
-on the [website]()
+on the [website](https://kaytbode.github.io/Ilu-owe/)
 
 ## Built with
 * HTML, CSS, Plain javascript
