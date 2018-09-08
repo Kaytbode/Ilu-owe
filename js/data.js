@@ -23,4 +23,24 @@ const proverbs = [
         yor : 'A bímọ kò gbọ́n, a ní kó má ṣàá kú : kí ní ńpa ọmọ bí àìgbọ́n?',
         eng : 'A foolish child is not much better than a dead child'
     },
+    {
+        yor : 'A kì í fá orí lẹhìn olórí',
+        eng : 'One does not settle a matter in the absence of the person most concerned'
+    },
+    {
+        yor : 'A kì í fi ejò sórí òrùlé sùn',
+        eng : 'Never let down your guard while danger still lurks'
+    },
+    {
+        yor : 'A kì í fi ìtìjú kárùn',
+        eng : 'Never be too shy to speak out on your own behalf'
+    },
+    {
+        yor : 'A kì í fi ọlá jẹ iyọ̀',
+        eng : 'Too much of a good thing can be dangerous'
+    },
+    {
+        yor : 'A kì í fi ọ̀nà odò han ikún',
+        eng : 'You cannot teach a person what he already knows'
+    },
 ];
