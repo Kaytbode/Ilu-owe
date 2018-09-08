@@ -2,6 +2,9 @@
 //grab the yoruba section of the page
 let yoruba = document.querySelector('.yoruba p');
 
+// the literal translation
+let literal = document.querySelector('.literal p');
+
 //grab the meaning section of the page
 let meaning = document.querySelector('.meaning p');
 
@@ -17,6 +20,7 @@ const getRandomIndex = (min, max)=> Math.floor(Math.random() * (max - min)) + mi
 const displayProverb = ()=>{
     const index = getRandomIndex(0, length);
     yoruba.textContent = proverbs[index].yor;
+    literal.textContent = proverbs[index].lit
     meaning.textContent = proverbs[index].eng;
 }
 
