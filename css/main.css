@@ -23,7 +23,7 @@ section {
     box-sizing: border-box;
     padding: 1em;
     text-align: center;
-    font-size: 1.3em;
+    font-size: 1.1em;
     font-family: 'Kosugi', sans-serif;
     font-weight: 500;
 }
@@ -45,6 +45,7 @@ h3 {
 
 .meaning {
     font-family: 'Bad Script', cursive;
+    font-size: 1.3em;
 }
 
 hr {
