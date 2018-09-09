@@ -54,4 +54,29 @@ const proverbs = [
         lit : `One does not show a squirrel the way to the river`,
         eng : 'You cannot teach a person what he already knows'
     },
+    {
+        yor : 'Gbogbo alangba lo d\'anu delẹ, a ko mọ eyi t\'inú nrun',
+        lit : `All lizards lie on their belly, you cannot tell which one has stomach ache`,
+        eng : `You cannot determine the challenges a person is going through, by mere looking at them`
+    },
+    {
+        yor : 'Àgbà ki wa lọjà, ki orí ọmọ titun o wọ',
+        lit : `You cannot have elders in a market, and have a baby not well positioned on the mother's back`,
+        eng : 'Behave in a matured manner to avoid bad reputation'
+    },
+    {
+        yor : 'Ọbẹ̀ kìí gbé inú ̀agbà mì',
+        lit : `The soup does not move around in an elder's belly`,
+        eng : 'You should learn to keep secrets'
+    },
+    {
+        yor : 'À ń pe gbẹ́nàgbẹ́nà ẹyẹ àkókó ń yọjú',
+        lit : `A sculptor is summoned and the woodpecker shows up`,
+        eng : 'Do not think too highly of yourself'
+    },
+    {
+        yor : 'Díẹ̀ díẹ̀ nimú ẹlẹ́dẹ̀ẹ́ fi ń wọgbà',
+        lit : `Little by little, a pig's nose enters the yard`,
+        eng : 'Attend to problems at the early stage, before they become insurmountable'
+    },
 ];
