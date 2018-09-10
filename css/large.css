@@ -24,3 +24,7 @@ section {
 hr {
     max-width: 700px;
 }
+
+footer {
+    font-size: 1.5em;
+}

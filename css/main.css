@@ -39,7 +39,8 @@ h3 {
     font-size: 1.5em;
 }
 
-.literal {
+.literal,
+footer {
     font-family: 'Inconsolata', monospace;
 }
 
@@ -51,4 +52,18 @@ h3 {
 hr {
     width: 80%;
     border: 1px solid black;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    font-size:1.2em;
+    padding: 1em 0.5em;
+    word-spacing: 5px;
+    text-align: center;
+}
+
+.fab,
+.fas {
+    color: #FF8205;
 }
