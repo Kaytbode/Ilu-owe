@@ -79,4 +79,29 @@ const proverbs = [
         lit : `Little by little, a pig's nose enters the yard`,
         eng : 'Attend to problems at the early stage, before they become insurmountable'
     },
+    {
+        yor : 'A fọwọ́ mú ajá o lọ, a ṣẹ̀ṣẹ̀ ńfi ìka méjì pè é',
+        lit : `We grab a dog with both hands and it flees, thereafter we beckon to it`,
+        eng : 'To regain what you lost, you have to intensify your efforts'
+    },
+    {
+        yor : 'A fún ọ lọ́bẹ̀ o tami si; o gbọ́n ju ọlọ́bẹ̀ lọ',
+        lit : `You add water to the soup you were given, you must feel you know more than the cook`,
+        eng : 'Learn to stay humble'
+    },
+    {
+        yor : 'A kì í bọ́ sínú omi tán ká máa sá fún ̀otútù',
+        lit : `One does jump into a pool, and be scared of being cold`,
+        eng : 'Precautions are useful only before the event'
+    },
+    {
+        yor : 'A kì í du orí olórí kí ̀awọ̀dì gbé tẹni lọ',
+        lit : `One does not fight to save another person's head, only to have the eagle carry one's own away`,
+        eng : `One should not save others at the expense of one's safetym`
+    },
+    {
+        yor : 'A kì í fi àìmọ̀wẹ̀ mòòkùn',
+        lit : `One does not dive into water without knowing how to swim`,
+        eng : 'Never engage in a project for which you lack the requisite skills'
+    },
 ];
