@@ -17,6 +17,7 @@ on the [website](https://kaytbode.github.io/Ilu-owe/)
   to enable easy tweet of proverbs.
 * [Yoruba dictionary](http://www.yorubadictionary.com/), for guide to getting the
   appropriate accent and meaning.
+* [Source of some of the yoruba proverbs](http://yoruba.unl.edu/yoruba.php-text=1b&view=0&uni=1&l=1.htm)
 
 ## Author
 * Kayode Oluborode

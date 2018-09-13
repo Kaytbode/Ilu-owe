@@ -97,11 +97,36 @@ const proverbs = [
     {
         yor : 'A kì í du orí olórí kí ̀awọ̀dì gbé tẹni lọ',
         lit : `One does not fight to save another person's head, only to have the eagle carry one's own away`,
-        eng : `One should not save others at the expense of one's safetym`
+        eng : `One should not save others at the expense of one's safety`
     },
     {
         yor : 'A kì í fi àìmọ̀wẹ̀ mòòkùn',
         lit : `One does not dive into water without knowing how to swim`,
         eng : 'Never engage in a project for which you lack the requisite skills'
+    },
+    {
+        yor : 'A kì í fi ẹ̀tẹ̀ sílẹ̀ pa làpálàpá',
+        lit : `One does ignore leprosy to treat a rash`,
+        eng : 'More serious problems deserve more immediate attention'
+    },
+    {
+        yor : 'A kì í fi idà pa ìgbín',
+        lit : `One does not use a sword to kill a snail`,
+        eng : 'Remedies should be commensurate with the problem'
+    },
+    {
+        yor : 'A kì í gbọ́ ẹjọ́ ẹnìkan dájọ́',
+        lit : `One does not deliver a verdict after just hearing one side of a matter`,
+        eng : 'Justice should be impartial'
+    },
+    {
+        yor : 'A kì í léku méji ká má pòfo',
+        lit : `One does not chase two rats and avoid catching nothing`,
+        eng : 'Never try to do two different things at once'
+    },
+    {
+        yor : 'A kì í mọ ọkọ ọmọ ká tún mọ àlè-e rẹ̀',
+        lit : `One does not acknowledge the husband of one's daughter and also acknowledge her illicit lover`,
+        eng : 'Never betray trust or connive at betraying it'
     },
 ];
