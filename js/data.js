@@ -129,4 +129,34 @@ const proverbs = [
         lit : `One does not acknowledge the husband of one's daughter and also acknowledge her illicit lover`,
         eng : 'Never betray trust or connive at betraying it'
     },
+    {
+        yor : 'A kì í pé kí ̀oṣìkà ṣe é ká wò ó',
+        lit : `One should not dare a wicked person to do his worst`,
+        eng : 'Never tempt evil people to do evil'
+    },
+    {
+        yor : 'A kì í ṣe fáàárí ẹ̀ṣẹ́ didi sọ́mọ adẹ́tẹ̀',
+        lit : `One does not boast of one's ability to make a fist in the presence of a leper's child`,
+        eng : 'Never make fun of people because of their affliction'
+    },
+    {
+        yor : 'A kì í ṣoore tán ká lóṣòó tì í',
+        lit : `One should not do a favour and then camp by it`,
+        eng : 'Having done some good, do not hang around to compel gratitude'
+    },
+    {
+        yor : 'A kì í wá aláṣọ-àlà nísọ̀ elépo',
+        lit : `One should not look for someone wearing a white garment in the stall of palm oil sellers`,
+        eng : 'One should know the likely places to look for whatever one seeks'
+    },
+    {
+        yor : 'A kì í wà nínú ìṣẹ́ ká perin tọrẹ',
+        lit : `One does not wallow in poverty, yet kill an elephant to give others`,
+        eng : 'Live according to your means'
+    },
+    {
+        yor : 'Àgùtàn to ba ba ajá rìn, a jẹ ẹ igbẹ',
+        lit : `A sheep that moves with a dog, will consume faeces`,
+        eng : 'Bad company corrupt good manners'
+    },
 ];
