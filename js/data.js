@@ -159,4 +159,29 @@ const proverbs = [
         lit : `A sheep that moves with a dog, will consume faeces`,
         eng : 'Bad company corrupt good manners'
     },
+    {
+        yor : 'A kì í wíjọ́ọ wíwò ka jàre',
+        lit : `One does not complain of being stared at and be vindicated`,
+        eng : 'One should not complain that other people are doing what one is also doing'
+    },
+    {
+        yor : 'À ńjùwọn ò ṣéé wí lẹ́jọ́; ìjà ìlara ò tán bọ̀rọ̀',
+        lit : `'we are driven by envy of them' is a bad case to make; a quarrel spawned by jealousy lingers on`,
+        eng : 'Quarrels whose causes cannot be openly admitted will not readily end'
+    },
+    {
+        yor : 'Àgbà ̀oṣìkà ńgbin ìyà sílẹ̀ de ọmọ ọ rẹ̀',
+        lit : `A wicked person sows bitterness for his descendants`,
+        eng : 'One character often affects the fortunes of one children'
+    },
+    {
+        yor : 'Àì-sọ̀rọ̀ ní ńmú ẹnu rùn',
+        lit : `It's abstention from speaking that causes the mouth to smell`,
+        eng : `One should always express one's opinion in a discussion`
+    },
+    {
+        yor : 'Ajàkàṣù  ò mọ̀ bí ìyàn-án mú',
+        lit : `The person who eats large helpings does not care that there is a famine`,
+        eng : 'Greed knows no thrift'
+    },
 ];
