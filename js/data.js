@@ -184,4 +184,9 @@ const proverbs = [
         lit : `The person who eats large helpings does not care that there is a famine`,
         eng : 'Greed knows no thrift'
     },
+    {
+        yor : 'Ajàkàṣù  ò mọ̀ bí ìyàn-án mú',
+        lit : `The person who eats large helpings does not care that there is a famine`,
+        eng : 'Greed knows no thrift'
+    },
 ];
