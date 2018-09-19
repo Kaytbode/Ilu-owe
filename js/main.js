@@ -27,9 +27,9 @@ const displayProverb = ()=>{
 // change the content every 60 secs
 let proverbInterval = window.setInterval(displayProverb, 60000);
 
-// load tweet
+// tweet proverb
 document.getElementById('tweet').addEventListener('click', ()=>{
     const proverb = `${yoruba.textContent} - ${meaning.textContent}`;
-    
+
     window.open(`https://twitter.com/intent/tweet?text=${proverb}`, 'tab');
 });
