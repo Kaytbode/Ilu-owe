@@ -65,6 +65,17 @@ hr {
     border-width: 1px;
 }
 
+.tweet-proverb {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+#tweet {
+    font-size: 20pt;
+    color: #003333;
+    cursor: pointer;
+}
+
 footer {
     background-color: black;
     color: white;
@@ -77,4 +88,5 @@ footer {
 .fab,
 .fas {
     color: #FF8205;
+    cursor: pointer;
 }
