@@ -74,7 +74,7 @@ const getProverb= ()=> {
         if(!cursor) return;
         //post tweet
         const proverb = `${cursor.value.yor} - ${cursor.value.mea}`;
-        clients.openWindow(`https://twitter.com/intent/tweet?text=${proverb}`, 'tab');
+        clients.openWindow(`https://twitter.com/intent/tweet?text=${proverb}`);
         //remove cursor from database when done
          cursor.delete();
          //move to the next item in the database
