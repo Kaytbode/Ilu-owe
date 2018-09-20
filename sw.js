@@ -4,12 +4,12 @@ addEventListener('install', event=>{
     event.waitUntil(
         caches.open(staticCacheName).then(cache=>{
             return cache.addAll([
-                '/',
-                '/css/main.css',
-                '/css/medium.css',
-                '/css/large.css',
-                '/js/main.js',
-                '/js/data.js',
+                '/ilu-owe',
+                '/ilu-owe/css/main.css',
+                '/ilu-owe/css/medium.css',
+                '/ilu-owe/css/large.css',
+                '/ilu-owe/js/main.js',
+                '/ilu-owe/js/data.js',
                 'https://fonts.googleapis.com/css?family=Kosugi|Raleway|Bad+Script|Inconsolata',
                 'https://use.fontawesome.com/releases/v5.3.1/css/all.css'
 
