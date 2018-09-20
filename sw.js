@@ -60,7 +60,7 @@ addEventListener('sync', event=>{
 
 const getProverb= ()=> {
   const dbPromise = DBhelper.initializeDB();
-  
+
   dbPromise.then(db=>{
     const tx = db.transaction('proverbs', 'readwrite');
     const store = tx.objectStore('proverbs');
@@ -74,7 +74,7 @@ const getProverb= ()=> {
         if(!cursor) return;
         //post tweet
         const proverb = `${cursor.value.yor} - ${cursor.value.mea}`;
-        window.open(`https://twitter.com/intent/tweet?text=${proverb}`, 'tab');
+        clients.openWindow(`https://twitter.com/intent/tweet?text=${proverb}`, 'tab');
         //remove cursor from database when done
          cursor.delete();
          //move to the next item in the database
