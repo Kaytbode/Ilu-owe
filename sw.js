@@ -59,6 +59,8 @@ addEventListener('sync', event=>{
 });
 
 const getProverb= ()=> {
+  const dbPromise = DBhelper.initializeDB();
+  
   dbPromise.then(db=>{
     const tx = db.transaction('proverbs', 'readwrite');
     const store = tx.objectStore('proverbs');
