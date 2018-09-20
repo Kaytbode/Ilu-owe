@@ -1,3 +1,6 @@
+importScripts('./js/dbHelper.js');
+importScripts('./js/idb.js');
+
 const staticCacheName = 'ilu-owe-v1';
 
 addEventListener('install', event=>{
@@ -49,48 +52,29 @@ addEventListener('fetch', event=>{
 });
 
 //Background service worker sync
-// addEventListener('sync', event=>{
-//     /*if service worker is aware
-//      about the pending form submission*/
-//     if (event.tag == 'syncForms') event.waitUntil(postTweet());
+addEventListener('sync', event=>{
+    /*if service worker is aware
+     about the pending form submission*/
+    if (event.tag == 'syncTweets') event.waitUntil(postTweet());
+});
 
-// });
+const postTweet = ()=> {
+  dbPromise.then(db=>{
+    const tx = db.transaction('proverbs', 'readwrite');
+    const store = tx.objectStore('proverbs');
 
-// const postTweet = ()=> {
-//   const dbPromise = DBHelper.initializeDatabase();
+    return store.openCursor();
+    }).then(cursor=>{
+        if(!cursor) return;
 
-//   dbPromise.then(db=>{
-//     const tx = db.transaction('reviews', 'readwrite');
-//     const store = tx.objectStore('reviews');
+        return cursor;
+    }).then(function postReview(cursor){
+        if(!cursor) return;
 
-//     return store.openCursor();
-//     }).then(cursor=>{
-//         if(!cursor) return;
-
-//         return cursor;
-//     }).then(function postReview(cursor){
-//         if(!cursor) return;
-
-//         const formReview = JSON.stringify(cursor.value);
-//         /*
-//          Go through the database and post to the server
-//          all that's in there
-//         */
-//         fetch("http://localhost:1337/reviews/",{
-//           method: 'POST',
-//           body: formReview
-//          })
-//          .then(()=> {
-//              console.log('done');
-//          })
-//          .catch((err)=> {
-//              console.log(err);
-//              return;
-//          })
-
-//          //remove cursor from database when done
-//          cursor.delete();
-//          //move to the next item in the database
-//         return cursor.continue().then(postReview);
-//     });
-// }
+        console.log(cursor.value);
+         //remove cursor from database when done
+         //cursor.delete();
+         //move to the next item in the database
+        return cursor.continue().then(postReview);
+    });
+}
