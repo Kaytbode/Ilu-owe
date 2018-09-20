@@ -10,7 +10,6 @@ addEventListener('install', event=>{
                 '/css/large.css',
                 '/js/main.js',
                 '/js/data.js',
-                '/js/idb.js',
                 'https://fonts.googleapis.com/css?family=Kosugi|Raleway|Bad+Script|Inconsolata',
                 'https://use.fontawesome.com/releases/v5.3.1/css/all.css'
 
