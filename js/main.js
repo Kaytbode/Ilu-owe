@@ -27,6 +27,19 @@ const displayProverb = ()=>{
 // change the content every 60 secs
 let proverbInterval = window.setInterval(displayProverb, 60000);
 
+
+// register service worker 
+navigator.serviceWorker.register('./sw.js').then(reg=>{
+    if(!navigator.serviceWorker.controller)return;
+    console.log('sw registered')
+    return reg.sync.getTags();
+  }).then(tags=>{
+      if(tags.includes('syncTweets')) console.log('background sync pending');
+  }).catch(err=>{
+      console.log('sync not supported or flag not enabled');
+      console.log(err.message);
+  });
+  
 // tweet proverb
 document.getElementById('tweet').addEventListener('click', ()=>{
     const proverb = `${yoruba.textContent} - ${meaning.textContent}`;
