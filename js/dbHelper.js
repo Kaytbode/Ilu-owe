@@ -63,7 +63,7 @@ class DBhelper {
                 if(!cursor) return;
 
                 return cursor;
-            }).then(postTweet=(cursor)=>{
+            }).then(function postTweet(cursor) {
                 if(!cursor) return;
                 //post tweet
                 const proverb = `${cursor.value.yor} - ${cursor.value.mea}`;
