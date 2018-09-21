@@ -188,5 +188,5 @@ const proverbs = [
         yor : 'Kirakita o dola,ka sise bi eru ko da nnkan',
         lit : `Runing helter skelter don't translates into wealth,even one might work like a slave`,
         eng : `God's blessing makes one prosper`
-    },
+    }
 ];

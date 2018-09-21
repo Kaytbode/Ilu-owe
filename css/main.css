@@ -6,6 +6,17 @@ h3 {
     padding: 0;
 }
 
+body {
+    background-color: #ccc;
+}
+
+.container {
+    margin: 40px auto;
+    background-color: #fff;
+    border-radius: 15px;
+    width: 90%;
+}
+
 header {
     padding: 2em 1em;
     font-family: 'Raleway', sans-serif;
@@ -51,7 +62,18 @@ footer {
 
 hr {
     width: 80%;
-    border: 1px solid black;
+    border-width: 1px;
+}
+
+.tweet-proverb {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+#tweet {
+    font-size: 20pt;
+    color: #003333;
+    cursor: pointer;
 }
 
 footer {
@@ -59,11 +81,12 @@ footer {
     color: white;
     font-size:1.2em;
     padding: 1em 0.5em;
-    word-spacing: 5px;
+    word-spacing: 2px;
     text-align: center;
 }
 
 .fab,
 .fas {
     color: #FF8205;
+    cursor: pointer;
 }

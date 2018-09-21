@@ -1,3 +1,6 @@
+.container {
+    max-width: 800px;
+}
 
 a {
     font-size: 1.3em;
@@ -10,7 +13,6 @@ h3 {
 
 section {
     font-size: 1.5em;
-    max-width: 800px;
 }
 
 .yoruba {
@@ -21,8 +23,8 @@ section {
     font-size: 1.7em;
 }
 
-hr {
-    max-width: 700px;
+#tweet {
+    font-size: 30pt;
 }
 
 footer {
