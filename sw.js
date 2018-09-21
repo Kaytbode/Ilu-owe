@@ -1,6 +1,3 @@
-importScripts('./js/dbHelper.js');
-importScripts('./js/idb.js');
-
 const staticCacheName = 'ilu-owe-v3';
 
 addEventListener('install', event=>{
@@ -13,6 +10,8 @@ addEventListener('install', event=>{
                 '/Ilu-owe/css/large.css',
                 '/Ilu-owe/js/main.js',
                 '/Ilu-owe/js/data.js',
+                '/Ilu-owe/js/idb.js',
+                '/Ilu-owe/js/dbHelper.js',
                 'https://fonts.googleapis.com/css?family=Kosugi|Raleway|Bad+Script|Inconsolata',
                 'https://use.fontawesome.com/releases/v5.3.1/css/all.css'
 
@@ -42,9 +41,9 @@ addEventListener('fetch', event=>{
             if(response) return response
             
             return fetch(event.request).then(response=>{
-                if(response.status === 404){
-                    return caches.match('/page404.html');
-                }
+               // if(response.status === 404){
+               //     return caches.match('/page404.html');
+               // }
                 return response;
             });
         })
