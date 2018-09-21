@@ -78,6 +78,7 @@ class DBhelper {
     static postTweet() {
         if(!navigator.onLine){
             DBhelper.postProverbToIdb();
+            return;
         }
 
         const proverb = `${document.querySelector('.yoruba p').textContent } - ${document.querySelector('.meaning p').textContent}`;
