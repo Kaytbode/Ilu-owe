@@ -1,7 +1,7 @@
 importScripts('./js/dbHelper.js');
 importScripts('./js/idb.js');
 
-const staticCacheName = 'ilu-owe-v2';
+const staticCacheName = 'ilu-owe-v3';
 
 addEventListener('install', event=>{
     event.waitUntil(
@@ -50,34 +50,3 @@ addEventListener('fetch', event=>{
         })
     );    
 });
-
-//Background service worker sync
-addEventListener('sync', event=>{
-    /*if service worker is aware
-     about the pending tweet*/
-    if (event.tag == 'syncTweets') event.waitUntil(getProverb());
-});
-
-const getProverb= ()=> {
-  const dbPromise = DBhelper.initializeDB();
-
-  dbPromise.then(db=>{
-    const tx = db.transaction('proverbs', 'readwrite');
-    const store = tx.objectStore('proverbs');
-
-    return store.openCursor();
-    }).then(cursor=>{
-        if(!cursor) return;
-
-        return cursor;
-    }).then(function postTweet(cursor){
-        if(!cursor) return;
-        //post tweet
-        const proverb = `${cursor.value.yor} - ${cursor.value.mea}`;
-        clients.openWindow(`https://twitter.com/intent/tweet?text=${proverb}`);
-        //remove cursor from database when done
-         cursor.delete();
-         //move to the next item in the database
-        return cursor.continue().then(postTweet);
-    });
-}

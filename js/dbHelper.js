@@ -29,24 +29,7 @@ class DBhelper {
         navigator.serviceWorker.register('sw.js').then(reg=>{
             if(!navigator.serviceWorker.controller)return;
             console.log('sw registered')
-            return reg.sync.getTags();
-          }).then(tags=>{
-              if(tags.includes('syncTweets')) console.log('background sync pending');
-          }).catch(err=>{
-              console.log('sync not supported or flag not enabled');
-              console.log(err.message);
-        });
-    }
-    // sync servicw worker
-    static syncSW() {
-        navigator.serviceWorker.ready.then(swRegistration=>{
-            console.log('service worker ready')
-            return swRegistration.sync.register('syncTweets');
-           })
-          .then(()=> console.log('syncTweets registered'))
-          .catch(()=> {
-            console.log('syncTweets failed');
-        })
+          });
     }
     //post proverbs to indexDB
     static postProverbToIdb() {
@@ -66,5 +49,38 @@ class DBhelper {
   
           return tx.complete;
         }).catch(err=> console.log(err));
+    }
+    // get proverb from database
+    static getProverbFromIDB() {
+        const dbPromise = DBhelper.initializeDB();
+
+        dbPromise.then(db=>{
+            const tx = db.transaction('proverbs', 'readwrite');
+            const store = tx.objectStore('proverbs');
+
+            return store.openCursor();
+            }).then(cursor=>{
+                if(!cursor) return;
+
+                return cursor;
+            }).then(postTweet=(cursor)=>{
+                if(!cursor) return;
+                //post tweet
+                const proverb = `${cursor.value.yor} - ${cursor.value.mea}`;
+                window.open(`https://twitter.com/intent/tweet?text=${proverb}`, 'tab');
+                //remove cursor from database when done
+                cursor.delete();
+                //move to the next item in the database
+                return cursor.continue().then(postTweet);
+            });
+    }
+    //post tweet
+    static postTweet() {
+        if(!navigator.onLine){
+            DBhelper.postProverbToIdb();
+        }
+
+        const proverb = `${document.querySelector('.yoruba p').textContent } - ${document.querySelector('.meaning p').textContent}`;
+        window.open(`https://twitter.com/intent/tweet?text=${proverb}`, 'tab');
     }
 };
