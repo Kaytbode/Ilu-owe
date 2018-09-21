@@ -4,14 +4,14 @@ addEventListener('install', event=>{
     event.waitUntil(
         caches.open(staticCacheName).then(cache=>{
             return cache.addAll([
-                '/',
-                '/css/main.css',
-                '/css/medium.css',
-                '/css/large.css',
-                '/js/main.js',
-                '/js/data.js',
-                '/js/idb.js',
-                '/js/dbHelper.js',
+                '/Ilu-owe/',
+                '/Ilu-owe/css/main.css',
+                '/Ilu-owe/css/medium.css',
+                '/Ilu-owe/css/large.css',
+                '/Ilu-owe/js/main.js',
+                '/Ilu-owe/js/data.js',
+                '/Ilu-owe/js/idb.js',
+                '/Ilu-owe/js/dbHelper.js',
                 'https://use.fontawesome.com/releases/v5.3.1/css/all.css',
                 'https://fonts.googleapis.com/css?family=Kosugi|Raleway|Bad+Script|Inconsolata'
             ]).then(()=> self.skipWaiting())
