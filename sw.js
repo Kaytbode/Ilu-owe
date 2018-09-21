@@ -37,14 +37,14 @@ addEventListener('activate', event=>{
 addEventListener('fetch', event=>{
     event.respondWith(
         caches.match(event.request).then(response=> {
-            if(response) return response
-            
+            return response || fetch(event.request);
+            /* 
             return fetch(event.request).then(response=>{
                 if(response.status === 404){
                     return caches.match('/page404.html');
                 }
-                return response;
-            });
+                return response; */
+           // });
         })
     );    
 });
