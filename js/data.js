@@ -185,8 +185,8 @@ const proverbs = [
         eng : 'Greed knows no thrift'
     },
     {
-        yor : 'Ajàkàṣù  ò mọ̀ bí ìyàn-án mú',
-        lit : `The person who eats large helpings does not care that there is a famine`,
-        eng : 'Greed knows no thrift'
-    },
+        yor : 'Kirakita o dola,ka sise bi eru ko da nnkan',
+        lit : `Runing helter skelter don't translates into wealth,even one might work like a slave`,
+        eng : `God's blessing makes one prosper`
+    }
 ];
