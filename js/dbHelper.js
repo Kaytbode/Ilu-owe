@@ -28,8 +28,8 @@ class DBhelper {
     static registerSW() {
         navigator.serviceWorker.register('sw.js').then(reg=>{
             if(!navigator.serviceWorker.controller)return;
-            console.log('sw registered')
-          });
+            console.log('sw registered');
+        })
     }
     //post proverbs to indexDB
     static postProverbToIdb() {
@@ -78,23 +78,12 @@ class DBhelper {
     static postTweet() {
         // we are definitely offline
         if(!navigator.onLine){
-            DBhelper.postProverbToIdb();
-            return;
+           DBhelper.postProverbToIdb();
+           return;
         }
 
-        // create a promise object
-        const promiseTweet = new Promise((resolve, reject)=>{
-            const proverb = `${document.querySelector('.yoruba p').textContent } - ${document.querySelector('.meaning p').textContent}`;
-            resolve(proverb);
-        });
-
-        promiseTweet.then(proverb=>{
-            window.open(`https://twitter.com/intent/tweet?text=${proverb}`, 'tab');
-        }).catch(err=>{
-            // we are not connecting to the server
-            // lie-fi i guess
-            // send proverb to database
-            DBhelper.postProverbToIdb();
-        })
+        const proverb = `${document.querySelector('.yoruba p').textContent } - ${document.querySelector('.meaning p').textContent}`;
+        
+        window.open(`https://twitter.com/intent/tweet?text=${proverb}`, 'tab');
     }
 };
