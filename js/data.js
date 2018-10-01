@@ -188,5 +188,10 @@ const proverbs = [
         yor : 'Kirakita o dola,ka sise bi eru ko da nnkan',
         lit : `Runing helter skelter don't translates into wealth,even one might work like a slave`,
         eng : `God's blessing makes one prosper`
+    },
+    {
+        yor : 'Bi ina ba joni, to jo ọmọ ẹni, tara ẹni la nkọ gbọn',
+        lit : `If one is on fire and one's child is on fire, one douses one's fire first`,
+        eng : `Without first solving one's problems, one cannot solve others`
     }
 ];
