@@ -1,21 +1,19 @@
-importScripts('./js/dbHelper.js');
-importScripts('./js/idb.js');
-
-const staticCacheName = 'ilu-owe-v2';
+const staticCacheName = 'ilu-owe-v4';
 
 addEventListener('install', event=>{
     event.waitUntil(
         caches.open(staticCacheName).then(cache=>{
             return cache.addAll([
-                '/Ilu-owe',
-                '/Ilu-owe/css/main.css',
-                '/Ilu-owe/css/medium.css',
-                '/Ilu-owe/css/large.css',
-                '/Ilu-owe/js/main.js',
-                '/Ilu-owe/js/data.js',
-                'https://fonts.googleapis.com/css?family=Kosugi|Raleway|Bad+Script|Inconsolata',
-                'https://use.fontawesome.com/releases/v5.3.1/css/all.css'
-
+                '/',
+                '/css/main.css',
+                '/css/medium.css',
+                '/css/large.css',
+                '/js/main.js',
+                '/js/data.js',
+                '/js/idb.js',
+                '/js/dbHelper.js',
+                'https://use.fontawesome.com/releases/v5.3.1/css/all.css',
+                'https://fonts.googleapis.com/css?family=Kosugi|Raleway|Bad+Script|Inconsolata'
             ]).then(()=> self.skipWaiting())
         })
     );
@@ -42,42 +40,10 @@ addEventListener('fetch', event=>{
             if(response) return response
             
             return fetch(event.request).then(response=>{
-                if(response.status === 404){
-                    return caches.match('/page404.html');
-                }
-                return response;
+                if(response.status === 404) return caches.match('/page404.html');
+                
+                return response; 
             });
         })
     );    
 });
-
-//Background service worker sync
-addEventListener('sync', event=>{
-    /*if service worker is aware
-     about the pending tweet*/
-    if (event.tag == 'syncTweets') event.waitUntil(getProverb());
-});
-
-const getProverb= ()=> {
-  const dbPromise = DBhelper.initializeDB();
-
-  dbPromise.then(db=>{
-    const tx = db.transaction('proverbs', 'readwrite');
-    const store = tx.objectStore('proverbs');
-
-    return store.openCursor();
-    }).then(cursor=>{
-        if(!cursor) return;
-
-        return cursor;
-    }).then(function postTweet(cursor){
-        if(!cursor) return;
-        //post tweet
-        const proverb = `${cursor.value.yor} - ${cursor.value.mea}`;
-        clients.openWindow(`https://twitter.com/intent/tweet?text=${proverb}`);
-        //remove cursor from database when done
-         cursor.delete();
-         //move to the next item in the database
-        return cursor.continue().then(postTweet);
-    });
-}
