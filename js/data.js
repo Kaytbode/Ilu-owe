@@ -193,5 +193,15 @@ const proverbs = [
         yor : 'Bi ina ba joni, to jo ọmọ ẹni, tara ẹni la nkọ gbọn',
         lit : `If one is on fire and one's child is on fire, one douses one's fire first`,
         eng : `Without first solving one's problems, one cannot solve others`
+    },
+    {
+        yor : 'Ni iṣoju oloko, ni agbado ti n gbo',
+        lit : `In the presence of a farmer, a corn matures`,
+        eng : `At the appointed time, nothing can hinder progress`
+    },
+    {
+        yor : 'O nbọ o nbọ lo n bọmọde lẹru',
+        lit : `Its almost here! its almost here! is what frightens a child`,
+        eng : `Even if a challenge appears insurmountable, there is always a way to tackle it`
     }
 ];
