@@ -203,5 +203,10 @@ const proverbs = [
         yor : 'O nbọ o nbọ lo n bọmọde lẹru',
         lit : `Its almost here! its almost here! is what frightens a child`,
         eng : `Even if a challenge appears insurmountable, there is always a way to tackle it`
-    }
+    },
+    {
+        yor : 'A kì í saju eleede pe edee',
+        lit : `One should not make a conclusion from a part statement`,
+        eng : 'One should not preempt the response to a conversation.'
+    },
 ];
