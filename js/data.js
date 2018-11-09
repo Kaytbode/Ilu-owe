@@ -209,4 +209,9 @@ const proverbs = [
         lit : `One should not make a conclusion from a part statement`,
         eng : 'One should not preempt the response to a conversation.'
     },
+    {
+        yor : 'Moja mosa laa mo akinkanju loju ogun',
+        lit : `Retreating is a virtue of a brave man`,
+        eng : 'Discretion is a better part of valor.'
+    }
 ];
