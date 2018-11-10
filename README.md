@@ -11,8 +11,6 @@ on the [website](https://kaytbode.github.io/Ilu-owe/)
 * HTML, CSS, Plain javascript
 * The offline capability was implemented using service worker and the browser 
   cache API.
-* [indexedDB Promised](https://github.com/jakearchibald/idb) API, was used to store
-  the proverbs in a database for offline display.
 * [twitter API](https://developer.twitter.com/en/docs/tweets/post-and-engage/overview),
   to enable easy tweet of proverbs.
 * [Yoruba dictionary](http://www.yorubadictionary.com/), for guide to getting the
