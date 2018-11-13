@@ -213,5 +213,10 @@ const proverbs = [
         yor : 'Moja mosa laa mo akinkanju loju ogun',
         lit : `Retreating is a virtue of a brave man`,
         eng : 'Discretion is a better part of valor.'
+    },
+    {
+        yor : 'Igi gogoro ma gun mi loju, lati okere lati wo',
+        lit : `If you do not want to be impaled by a long stick, you stare from a long distance.`,
+        eng : 'One avoids danger at an early stage'
     }
 ];
