@@ -185,6 +185,11 @@ const proverbs = [
         eng : 'Greed knows no thrift'
     },
     {
+        yor : 'ọrọ yi so simi lẹnu, o buyọ si. iso o ṣe pọnla, iyọ o ṣe tu danu',
+        lit : `This message farts in my mouth, and also add salt. I should not lick the fart, neither should i throw out the salt.`,
+        eng : 'one is in a dilemma to choose between 2 conditions by weighing the merits and demerits.'
+    },
+    {
         yor : 'Kirakita o dola,ka sise bi eru ko da nnkan',
         lit : `Runing helter skelter don't translates into wealth,even one might work like a slave`,
         eng : `God's blessing makes one prosper`
