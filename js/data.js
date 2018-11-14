@@ -223,5 +223,10 @@ const proverbs = [
         yor : 'Igi gogoro ma gun mi loju, lati okere lati wo',
         lit : `If you do not want to be impaled by a long stick, you stare from a long distance.`,
         eng : 'One avoids danger at an early stage'
+    },
+    {
+        yor : `Eni bama m'obo akoko se bi lagido`,
+        lit : `To catch a monkey, you must act like a monkey`,
+        eng : 'You have to be in a situation in order to proffer solution to it.'
     }
 ];
