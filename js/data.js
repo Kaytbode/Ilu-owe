@@ -228,5 +228,10 @@ const proverbs = [
         yor : `Eni bama m'obo akoko se bi lagido`,
         lit : `To catch a monkey, you must act like a monkey`,
         eng : 'You have to be in a situation in order to proffer solution to it.'
+    },
+    {
+        yor : `Enibama ba esu jeun sibi e a gun`,
+        lit : `You need a long spoon to dine with the devil`,
+        eng : 'You have to be in a situation in order to proffer solution to it.'
     }
 ];
