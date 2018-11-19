@@ -233,5 +233,10 @@ const proverbs = [
         yor : `Enibama ba esu jeun sibi e a gun`,
         lit : `You need a long spoon to dine with the devil`,
         eng : 'You have to be extremely careful in your dealings with people with bad reputation'
+    },
+    {
+        yor : `Eti baba nile, eti baba loko. eniyan ni je ba.`,
+        lit : `A father's ear at home, another one at the farm. That's human for you.`,
+        eng : 'Whatever you do in public, will eventually be heard at home.'
     }
 ];
