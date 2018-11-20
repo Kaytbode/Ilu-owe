@@ -238,5 +238,10 @@ const proverbs = [
         yor : `Eti baba nile, eti baba loko. eniyan ni je ba.`,
         lit : `A father's ear at home, another one at the farm. That's human for you.`,
         eng : 'Whatever you do in public, will eventually be heard at home.'
+    },
+    {
+        yor : `Ká dúpẹ́ lọ́wọ́ ẹni tó mọ́ni lójú; ọ̀pọ̀ ni ò wo ibi tí èyàn wà.`,
+        lit : `We should thank those who looked at one with disdain.`,
+        eng : 'Be forward-looking; be grateful.'
     }
 ];
