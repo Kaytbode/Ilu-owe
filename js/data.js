@@ -243,5 +243,10 @@ const proverbs = [
         yor : `Ká dúpẹ́ lọ́wọ́ ẹni tó mọ́ni lójú; ọ̀pọ̀ ni ò wo ibi tí èyàn wà.`,
         lit : `We should thank those who looked at one with disdain.`,
         eng : 'Be forward-looking; be grateful.'
+    },
+    {
+        yor : `A kì í fi ojú ọwọ́ ṣiṣẹ́ tán, káa tún wá fi ẹ̀hìn ọwọ̀ dàánù.`,
+        lit : `Never destroy with your backhand what your open hand had accomplished.`,
+        eng : 'Avoid hasty and impulsive decisions; handle drastic decisions with caution.'
     }
 ];
