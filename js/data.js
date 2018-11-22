@@ -248,5 +248,10 @@ const proverbs = [
         yor : `A kì í fi ojú ọwọ́ ṣiṣẹ́ tán, káa tún wá fi ẹ̀hìn ọwọ̀ dàánù.`,
         lit : `Never destroy with your backhand what your open hand had accomplished.`,
         eng : 'Avoid hasty and impulsive decisions; handle drastic decisions with caution.'
+    },
+    {
+        yor : `Asúrétete kò ní kọjá ilé, arìngbẹ̀rẹ̀ kò ní sùn sí ọ̀nà.`,
+        lit : `Those who run very fast are not going to run beyond their homes (or destination) and those walking gently won't sleep on the way.`,
+        eng : 'Be focused and be steadfast; stay in your lane; envy no one.'
     }
 ];
