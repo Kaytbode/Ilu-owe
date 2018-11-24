@@ -258,5 +258,10 @@ const proverbs = [
         yor : `A kì í fi ojú ọwọ́ ṣiṣẹ́ tán, káa tún wá fi ẹ̀hìn ọwọ̀ dàánù.`,
         lit : `Never destroy with your backhand what your open hand had accomplished.`,
         eng : 'Avoid hasty and impulsive decisions; handle drastic decisions with caution.'
+    },
+    {
+        yor : `Lọ́jọ́ ti omi bá tán lẹ́hìn ẹja, ọwọ́ lásán ni wọ́n máa fi mú u.`,
+        lit : `The day water ceases to back the fish, it will simply be picked up (in the river) with mere hands.`,
+        eng : 'Good support and network matter; absence of good support could make one vulnerable.'
     }
 ];
