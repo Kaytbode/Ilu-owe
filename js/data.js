@@ -263,5 +263,10 @@ const proverbs = [
         yor : `Lọ́jọ́ ti omi bá tán lẹ́hìn ẹja, ọwọ́ lásán ni wọ́n máa fi mú u.`,
         lit : `The day water ceases to back the fish, it will simply be picked up (in the river) with mere hands.`,
         eng : 'Good support and network matter; absence of good support could make one vulnerable.'
+    },
+    {
+        yor : `A kì í bá Ọlọ́run ṣòwò ká pàdánù.`,
+        lit : `No one trades with God and looses.`,
+        eng : 'God is faithful; you can depend on Him.'
     }
 ];
