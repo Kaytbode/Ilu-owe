@@ -268,5 +268,10 @@ const proverbs = [
         yor : `A kì í bá Ọlọ́run ṣòwò ká pàdánù.`,
         lit : `No one trades with God and looses.`,
         eng : 'God is faithful; you can depend on Him.'
+    },
+    {
+        yor : `Kì í ṣe gbogbo ajá tó bá gbó'ni lọ́jà, la ńdá lóhùn.`,
+        lit : `It's not all the dogs that bark at one at the marketplace that one responds to.`,
+        eng : `Be focused; it's not all issues that should command one's attention.`
     }
 ];
