@@ -273,5 +273,10 @@ const proverbs = [
         yor : `Kì í ṣe gbogbo ajá tó bá gbó'ni lọ́jà, la ńdá lóhùn.`,
         lit : `It's not all the dogs that bark at one at the marketplace that one responds to.`,
         eng : `Be focused; it's not all issues that should command one's attention.`
+    },
+    {
+        yor : `Ẹni tó ṣe ohun tó dun'ni lóòní, lè ṣe ohun tí yóò dùn mọ́'ni lọ́la.`,
+        lit : `A person who hurts one today may still be a source of blessing tomorrow.`,
+        eng : `No one is perfect; avoid overreaction and look ahead.`
     }
 ];
