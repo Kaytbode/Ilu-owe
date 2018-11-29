@@ -278,5 +278,10 @@ const proverbs = [
         yor : `Ẹni tó ṣe ohun tó dun'ni lóòní, lè ṣe ohun tí yóò dùn mọ́'ni lọ́la.`,
         lit : `A person who hurts one today may still be a source of blessing tomorrow.`,
         eng : `No one is perfect; avoid overreaction and look ahead.`
+    },
+    {
+        yor : `Ilẹ̀ mọ́, ọ̀lẹ pòṣé.`,
+        lit : `The day breaks and the indolent hissed.`,
+        eng : `Be diligent.`
     }
 ];
