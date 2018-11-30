@@ -283,5 +283,10 @@ const proverbs = [
         yor : `Ilẹ̀ mọ́, ọ̀lẹ pòṣé.`,
         lit : `The day breaks and the indolent hissed.`,
         eng : `Be diligent.`
+    },
+    {
+        yor : `Bí ikú ilé ò pa'ni, tòde ò leè pa'ni.`,
+        lit : `If there is no enemy within, the one outside can do us no harm.`,
+        eng : `Choose your friends wisely; worry less about the enemy without.`
     }
 ];
