@@ -288,5 +288,10 @@ const proverbs = [
         yor : `Bí ikú ilé ò pa'ni, tòde ò leè pa'ni.`,
         lit : `If there is no enemy within, the one outside can do us no harm.`,
         eng : `Choose your friends wisely; worry less about the enemy without.`
+    },
+    {
+        yor : `Àtùpà kì í níyì lọ́ọ̀sán, ṣugbọ̀n a máa gbayì lọ́jọ́ alẹ́.`,
+        lit : `A lamp is typically of little value in the afternoon, but do get appreciated at night.`,
+        eng : `There's always a right time and place for everything.`
     }
 ];
