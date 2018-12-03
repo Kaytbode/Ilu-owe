@@ -290,8 +290,8 @@ const proverbs = [
         eng : `Choose your friends wisely; worry less about the enemy without.`
     },
     {
-        yor : `Àtùpà kì í níyì lọ́ọ̀sán, ṣugbọ̀n a máa gbayì lọ́jọ́ alẹ́.`,
-        lit : `A lamp is typically of little value in the afternoon, but do get appreciated at night.`,
-        eng : `There's always a right time and place for everything.`
+        yor : `Èyàn kì í mọ iyì ohun tó ní, à fi tó bá sọọ́ nù.`,
+        lit : `We seldom appreciate what we have, until we lose the thing.`,
+        eng : `Familiarity breeds contempt.`
     }
 ];
