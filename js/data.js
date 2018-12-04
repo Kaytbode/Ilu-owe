@@ -293,5 +293,10 @@ const proverbs = [
         yor : `Èyàn kì í mọ iyì ohun tó ní, à fi tó bá sọọ́ nù.`,
         lit : `We seldom appreciate what we have, until we lose the thing.`,
         eng : `Familiarity breeds contempt.`
+    },
+    {
+        yor : `Tí a bá ju abẹ̀bẹ̀ sí òkè nígbà igba, ibi pẹlẹbẹ náà ló máa fi lé lẹ̀.`,
+        lit : `Even if a hand-fan is thrown up two hundred times, it will consistently rest on one of its flat sides.`,
+        eng : `Stubbornness regardless of circumstances; be flexible and open-minded..`
     }
 ];
