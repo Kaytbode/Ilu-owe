@@ -297,6 +297,11 @@ const proverbs = [
     {
         yor : `Tí a bá ju abẹ̀bẹ̀ sí òkè nígbà igba, ibi pẹlẹbẹ náà ló máa fi lé lẹ̀.`,
         lit : `Even if a hand-fan is thrown up two hundred times, it will consistently rest on one of its flat sides.`,
-        eng : `Stubbornness regardless of circumstances; be flexible and open-minded..`
+        eng : `Stubbornness regardless of circumstances; be flexible and open-minded.`
+    },
+    {
+        yor : `Mímì lẹpọ̀n àgbò ńmì, kò lè já.`,
+        lit : `The ram's testicles are merely dangling, they cannot fall off.`,
+        eng : `Keep hope alive; don't give up.`
     }
 ];
