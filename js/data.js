@@ -303,5 +303,10 @@ const proverbs = [
         yor : `Mímì lẹpọ̀n àgbò ńmì, kò lè já.`,
         lit : `The ram's testicles are merely dangling, they cannot fall off.`,
         eng : `Keep hope alive; don't give up.`
+    },
+    {
+        yor : `Ní tútù là ńká ẹja kò; ẹja gbígbẹ ò ṣeé ká.`,
+        lit : `Fish may be bent only while still fresh; dried fish cannot be bent.`,
+        eng : `Address issues promptly and before they get complicated; complex issues can be difficult to resolve.`
     }
 ];
