@@ -308,5 +308,10 @@ const proverbs = [
         yor : `Ní tútù là ńká ẹja kò; ẹja gbígbẹ ò ṣeé ká.`,
         lit : `Fish may be bent only while still fresh; dried fish cannot be bent.`,
         eng : `Address issues promptly and before they get complicated; complex issues can be difficult to resolve.`
+    },
+    {
+        yor : `Gbólóhùn kan lè ba ọ̀rọ̀ jẹ́, gbólóhùn kan náà lè tún ọ̀rọ̀ ṣe.`,
+        lit : `One sentence can mess up a discussion and one sentence can make it better.`,
+        eng : `Words have consequences; use them wisely.`
     }
 ];
