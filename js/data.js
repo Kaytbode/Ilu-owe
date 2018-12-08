@@ -313,5 +313,10 @@ const proverbs = [
         yor : `Gbólóhùn kan lè ba ọ̀rọ̀ jẹ́, gbólóhùn kan náà lè tún ọ̀rọ̀ ṣe.`,
         lit : `One sentence can mess up a discussion and one sentence can make it better.`,
         eng : `Words have consequences; use them wisely.`
+    },
+    {
+        yor : `Ẹyẹ ò lè fi apá kan fò.`,
+        lit : `A bird cannot fly with one wing.`,
+        eng : `We need one another; together we can do more.`
     }
 ];
