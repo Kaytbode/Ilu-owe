@@ -318,5 +318,10 @@ const proverbs = [
         yor : `Ẹyẹ ò lè fi apá kan fò.`,
         lit : `A bird cannot fly with one wing.`,
         eng : `We need one another; together we can do more.`
+    },
+    {
+        yor : `Ẹni tó kọ̀ tí kò sin Ọlọ́run, òrìṣà kékèèké tí kò to Ọlọ́run ló máa sìn.`,
+        lit : `Whoever refuses to worship God will end up worshipping lesser gods.`,
+        eng : `To reject God is to accept the consequence of His absence.`
     }
 ];
