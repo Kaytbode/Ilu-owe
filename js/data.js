@@ -245,11 +245,6 @@ const proverbs = [
         eng : 'Be forward-looking; be grateful.'
     },
     {
-        yor : `A kì í fi ojú ọwọ́ ṣiṣẹ́ tán, káa tún wá fi ẹ̀hìn ọwọ̀ dàánù.`,
-        lit : `Never destroy with your backhand what your open hand had accomplished.`,
-        eng : 'Avoid hasty and impulsive decisions; handle drastic decisions with caution.'
-    },
-    {
         yor : `Asúrétete kò ní kọjá ilé, arìngbẹ̀rẹ̀ kò ní sùn sí ọ̀nà.`,
         lit : `Those who run very fast are not going to run beyond their homes (or destination) and those walking gently won't sleep on the way.`,
         eng : 'Be focused and be steadfast; stay in your lane; envy no one.'
@@ -323,5 +318,10 @@ const proverbs = [
         yor : `Ẹni tó kọ̀ tí kò sin Ọlọ́run, òrìṣà kékèèké tí kò to Ọlọ́run ló máa sìn.`,
         lit : `Whoever refuses to worship God will end up worshipping lesser gods.`,
         eng : `To reject God is to accept the consequence of His absence.`
+    },
+    {
+        yor : `Gbogbo ìgbẹ́ kọ́ lọdẹ ti ńpa ọ̀yà; gbogbo ogun kọ́ lakíkanjú ti ńyege.`,
+        lit : `It's not from all forests that a hunter kills a grasscutter; it's not all battles that a warrior wins.`,
+        eng : `Win some, lose some; don't be deterred; rise up and try again; there'll always be another day.`
     }
 ];
