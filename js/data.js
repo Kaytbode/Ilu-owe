@@ -323,5 +323,10 @@ const proverbs = [
         yor : `Gbogbo ìgbẹ́ kọ́ lọdẹ ti ńpa ọ̀yà; gbogbo ogun kọ́ lakíkanjú ti ńyege.`,
         lit : `It's not from all forests that a hunter kills a grasscutter; it's not all battles that a warrior wins.`,
         eng : `Win some, lose some; don't be deterred; rise up and try again; there'll always be another day.`
+    },
+    {
+        yor : `Ayé tí ẹṣin ò jẹ, tí ìrù ìdí rẹ̀ bá ní sùúrù, á jẹ jù bẹ́ẹ̀ lọ.`,
+        lit : `If the tail of a horse can be patient (to become a flywhisk), it will surpass the quality of life never enjoyed by the horse.`,
+        eng : `Be patient; the best is yet to come.`
     }
 ];
