@@ -328,5 +328,10 @@ const proverbs = [
         yor : `Ayé tí ẹṣin ò jẹ, tí ìrù ìdí rẹ̀ bá ní sùúrù, á jẹ jù bẹ́ẹ̀ lọ.`,
         lit : `If the tail of a horse can be patient (to become a flywhisk), it will surpass the quality of life never enjoyed by the horse.`,
         eng : `Be patient; the best is yet to come.`
+    },
+    {
+        yor : `Ẹni tó ńbẹ̀rù àti ṣubú, àti dìde á nira fún un.`,
+        lit : `Whoever is scared of falling will find rising difficult.`,
+        eng : `Be courageous; be bold; nothing ventured, nothing gained.`
     }
 ];
