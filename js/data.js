@@ -333,5 +333,10 @@ const proverbs = [
         yor : `Ẹni tó ńbẹ̀rù àti ṣubú, àti dìde á nira fún un.`,
         lit : `Whoever is scared of falling will find rising difficult.`,
         eng : `Be courageous; be bold; nothing ventured, nothing gained.`
+    },
+    {
+        yor : `A kì í fi ọjọ́ kan, bọ́ ọmọ tó rù.`,
+        lit : `A lean child cannot be fattened in just one day.`,
+        eng : `Good things take time; be patient; don’t force issues before their time.`
     }
 ];
