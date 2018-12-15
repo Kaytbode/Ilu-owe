@@ -338,5 +338,10 @@ const proverbs = [
         yor : `A kì í fi ọjọ́ kan, bọ́ ọmọ tó rù.`,
         lit : `A lean child cannot be fattened in just one day.`,
         eng : `Good things take time; be patient; don’t force issues before their time.`
+    },
+    {
+        yor : `Tí àdúrà bá gbà tán, apá aládúrà ò ní ka.`,
+        lit : `When a prayer is answered, the person who prayed would be overwhelmed.`,
+        eng : `Prayers work; answers may be so complete as to be overwhelming.`
     }
 ];
