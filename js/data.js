@@ -343,5 +343,10 @@ const proverbs = [
         yor : `Tí àdúrà bá gbà tán, apá aládúrà ò ní ka.`,
         lit : `When a prayer is answered, the person who prayed would be overwhelmed.`,
         eng : `Prayers work; answers may be so complete as to be overwhelming.`
+    },
+    {
+        yor : `Tí a bá fi ogún ọdún ṣánpá, ọdún wo la ó fò? `,
+        lit : `If we flap arms for twenty years, when are we going to fly?`,
+        eng : `Make hay while the sun shines; promptly take advantage of opportunities.`
     }
 ];
