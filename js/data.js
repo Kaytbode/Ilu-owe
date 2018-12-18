@@ -348,5 +348,10 @@ const proverbs = [
         yor : `Tí a bá fi ogún ọdún ṣánpá, ọdún wo la ó fò? `,
         lit : `If we flap arms for twenty years, when are we going to fly?`,
         eng : `Make hay while the sun shines; promptly take advantage of opportunities.`
+    },
+    {
+        yor : `Ikú fẹ́ pa alápatà ó ńkígbe; ọmọ ẹranko tó ti dá lóró ńkọ́?`,
+        lit : `Death stalks the butcher and he screams; what about the animals he's butchered?`,
+        eng : `Be fair and considerate; don't demand from anyone what you are unwilling to impose on yourself.`
     }
 ];
