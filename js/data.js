@@ -353,5 +353,10 @@ const proverbs = [
         yor : `Ikú fẹ́ pa alápatà ó ńkígbe; ọmọ ẹranko tó ti dá lóró ńkọ́?`,
         lit : `Death stalks the butcher and he screams; what about the animals he's butchered?`,
         eng : `Be fair and considerate; don't demand from anyone what you are unwilling to impose on yourself.`
+    },
+    {
+        yor : `Bí ọ́mọdé bá ṣubú á wo iwájú; bí àgbà bá ṣubú á wo ẹ̀hìn. `,
+        lit : `Upon falling, a youngster looks ahead (for help); an elder looks back (for the cause).`,
+        eng : `Prevention is better than cure; good to look for help after a fall, but better to prevent a recurrence.`
     }
 ];
