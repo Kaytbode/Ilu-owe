@@ -358,5 +358,10 @@ const proverbs = [
         yor : `Bí ọ́mọdé bá ṣubú á wo iwájú; bí àgbà bá ṣubú á wo ẹ̀hìn. `,
         lit : `Upon falling, a youngster looks ahead (for help); an elder looks back (for the cause).`,
         eng : `Prevention is better than cure; good to look for help after a fall, but better to prevent a recurrence.`
+    },
+    {
+        yor : `Ẹni tó ńsáré tó ńwo ẹ̀hìn, ó di dandan, kó fi ẹsẹ̀ kọ.`,
+        lit : `Whoever keeps looking back while running will certainly stumble.`,
+        eng : `Stay focused; ignore distractions.`
     }
 ];
