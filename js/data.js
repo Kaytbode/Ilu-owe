@@ -363,5 +363,10 @@ const proverbs = [
         yor : `Ẹni tó ńsáré tó ńwo ẹ̀hìn, ó di dandan, kó fi ẹsẹ̀ kọ.`,
         lit : `Whoever keeps looking back while running will certainly stumble.`,
         eng : `Stay focused; ignore distractions.`
+    },
+    {
+        yor : `Àkàbà tó bá fi ara ti ilẹ̀, tó bá fi ara ti ilé, kò lè yẹ̀ dànù.`,
+        lit : `A ladder that rests on both the ground and the wall, cannot easily fall off.`,
+        eng : `Good support empowers and protects; seek to leverage on it.`
     }
 ];
