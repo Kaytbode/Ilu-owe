@@ -368,5 +368,10 @@ const proverbs = [
         yor : `Àkàbà tó bá fi ara ti ilẹ̀, tó bá fi ara ti ilé, kò lè yẹ̀ dànù.`,
         lit : `A ladder that rests on both the ground and the wall, cannot easily fall off.`,
         eng : `Good support empowers and protects; seek to leverage on it.`
+    },
+    {
+        yor : `Ọlọ́run ò dá kainkain kó tóbi, àtapa ni ì bá máa ta èèyàn.`,
+        lit : `God did not create the ant big for a reason; it would have been stinging people to death.`,
+        eng : `Unpleasant manners, quite often, limit us; oppress no one with your privileges.`
     }
 ];
