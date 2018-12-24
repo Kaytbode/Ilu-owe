@@ -373,5 +373,10 @@ const proverbs = [
         yor : `Ọlọ́run ò dá kainkain kó tóbi, àtapa ni ì bá máa ta èèyàn.`,
         lit : `God did not create the ant big for a reason; it would have been stinging people to death.`,
         eng : `Unpleasant manners, quite often, limit us; oppress no one with your privileges.`
+    },
+    {
+        yor : `Àṣẹ̀ṣẹ̀ dáyé ológbò ni í jìyà, bó bá dàgbà, á tó ọdẹ ẹ́ ṣe.`,
+        lit : `Only as a kitten is the cat in deprivation, once fully grown it can do its own hunting.`,
+        eng : `The best is yet to come; keep hope alive.`
     }
 ];
