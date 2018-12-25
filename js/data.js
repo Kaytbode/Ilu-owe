@@ -378,5 +378,10 @@ const proverbs = [
         yor : `Àṣẹ̀ṣẹ̀ dáyé ológbò ni í jìyà, bó bá dàgbà, á tó ọdẹ ẹ́ ṣe.`,
         lit : `Only as a kitten is the cat in deprivation, once fully grown it can do its own hunting.`,
         eng : `The best is yet to come; keep hope alive.`
+    },
+    {
+        yor : `Eré tí ajá bá fi ogún ọdún sá, ìrin fàájì ni fún ẹṣin.`,
+        lit : `A race that takes dogs twenty years, is a mere leisurely walk to horses.`,
+        eng : `Different strokes for different folks; what proves a challenge to one, may well be a walkover to another.`
     }
 ];
