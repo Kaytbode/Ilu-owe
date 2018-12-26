@@ -383,5 +383,10 @@ const proverbs = [
         yor : `Eré tí ajá bá fi ogún ọdún sá, ìrin fàájì ni fún ẹṣin.`,
         lit : `A race that takes dogs twenty years, is a mere leisurely walk to horses.`,
         eng : `Different strokes for different folks; what proves a challenge to one, may well be a walkover to another.`
+    },
+    {
+        yor : `Ẹranko tó gbọ́n bí ajá kò sí; ajá mọ ọmọ tirẹ̀ ńfún lọ́mú, ó mọ ti òdù ọ̀yà ńkì mọ́'lẹ̀.`,
+        lit : `No animal is as crafty as the dog; it knows how to suckle its offsprings and pounce on those of the grass-cutters. `,
+        eng : `Shun unbridled craftiness and self-centeredness.`
     }
 ];
