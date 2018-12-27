@@ -388,5 +388,10 @@ const proverbs = [
         yor : `Ẹranko tó gbọ́n bí ajá kò sí; ajá mọ ọmọ tirẹ̀ ńfún lọ́mú, ó mọ ti òdù ọ̀yà ńkì mọ́'lẹ̀.`,
         lit : `No animal is as crafty as the dog; it knows how to suckle its offsprings and pounce on those of the grass-cutters. `,
         eng : `Shun unbridled craftiness and self-centeredness.`
+    },
+    {
+        yor : `Ọ̀kẹ́rẹ́ tí yóò gun igi ọ̀gẹ̀dẹ̀, èékánná rẹ̀ yóò mú ṣáṣá. `,
+        lit : `A squirrel that wants to climb the plantain tree must have sharp claw nails.`,
+        eng : `Nothing good comes easy; lofty goals must be well prepared for.`
     }
 ];
