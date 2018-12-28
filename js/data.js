@@ -393,5 +393,10 @@ const proverbs = [
         yor : `Ọ̀kẹ́rẹ́ tí yóò gun igi ọ̀gẹ̀dẹ̀, èékánná rẹ̀ yóò mú ṣáṣá. `,
         lit : `A squirrel that wants to climb the plantain tree must have sharp claw nails.`,
         eng : `Nothing good comes easy; lofty goals must be well prepared for.`
+    },
+    {
+        yor : `Ìwà rere lẹ̀ṣọ́ ènìyàn.`,
+        lit : `Good character is man’s adornment.`,
+        eng : `Good character traits are adorable and attractive; we ought to cultivate them.`
     }
 ];
