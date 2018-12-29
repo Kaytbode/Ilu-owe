@@ -398,5 +398,10 @@ const proverbs = [
         yor : `Ìwà rere lẹ̀ṣọ́ ènìyàn.`,
         lit : `Good character is man’s adornment.`,
         eng : `Good character traits are adorable and attractive; we ought to cultivate them.`
+    },
+    {
+        yor : `Ẹni ejò bá ti bùjẹ rí, bó bá rí ekòló, yóò họ.`,
+        lit : `Whoever had once been bitten by a snake, would flee at the sight of an earthworm.`,
+        eng : `Once beaten, twice shy; quite often, our past exerts pressure on our present.`
     }
 ];
