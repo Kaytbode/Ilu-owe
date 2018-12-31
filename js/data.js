@@ -403,5 +403,10 @@ const proverbs = [
         yor : `Ẹni ejò bá ti bùjẹ rí, bó bá rí ekòló, yóò họ.`,
         lit : `Whoever had once been bitten by a snake, would flee at the sight of an earthworm.`,
         eng : `Once beaten, twice shy; quite often, our past exerts pressure on our present.`
+    },
+    {
+        yor : `Ẹní tó rí òkú ìkà nílẹ̀ tó taá ní ìpá, ìkà ti di méjì.`,
+        lit : `Whoever came across the corpse of a wicked fellow and kicked it turned himself or herself into a wicked person, as well.`,
+        eng : `Forgive and forget; we shouldn't always seek to get even.`
     }
 ];
