@@ -408,5 +408,10 @@ const proverbs = [
         yor : `Ẹní tó rí òkú ìkà nílẹ̀ tó taá ní ìpá, ìkà ti di méjì.`,
         lit : `Whoever came across the corpse of a wicked fellow and kicked it turned himself or herself into a wicked person, as well.`,
         eng : `Forgive and forget; we shouldn't always seek to get even.`
+    },
+    {
+        yor : `Ọsán tó já ló sọ ọrún di ọ̀pá.`,
+        lit : `The bowstring that got broken was what turned the bow into a mere baton.`,
+        eng : `There is a cause to every effect; a minor issue may produce a major consequence.`
     }
 ];
