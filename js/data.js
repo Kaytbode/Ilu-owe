@@ -413,5 +413,10 @@ const proverbs = [
         yor : `Ọsán tó já ló sọ ọrún di ọ̀pá.`,
         lit : `The bowstring that got broken was what turned the bow into a mere baton.`,
         eng : `There is a cause to every effect; a minor issue may produce a major consequence.`
+    },
+    {
+        yor : `Mọ̀jà, mọ̀sá, ni ti akínkanjú; akínkanjú tó mọ̀ọ́ jà tí kò mọ̀ọ́ sá á bá ogun lọ.`,
+        lit : `Warriors must know when to fight and when to retreat; a warrior who knows when to fight, but not when to retreat will perish in battle.`,
+        eng : `Timing is crucial; know when to pursue, defer or quit.`
     }
 ];
