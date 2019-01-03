@@ -418,5 +418,10 @@ const proverbs = [
         yor : `Mọ̀jà, mọ̀sá, ni ti akínkanjú; akínkanjú tó mọ̀ọ́ jà tí kò mọ̀ọ́ sá á bá ogun lọ.`,
         lit : `Warriors must know when to fight and when to retreat; a warrior who knows when to fight, but not when to retreat will perish in battle.`,
         eng : `Timing is crucial; know when to pursue, defer or quit.`
+    },
+    {
+        yor : `Bí a bá ní sùúrù, ohun tí ò tó, ṣì ńbọ̀ wá ṣẹ́kù. `,
+        lit : `If we are patient, whatever is insufficient will be in excess soon enough.`,
+        eng : `With patience, virtually nothing is impossible.`
     }
 ];
