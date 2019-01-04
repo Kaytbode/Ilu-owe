@@ -423,5 +423,10 @@ const proverbs = [
         yor : `Bí a bá ní sùúrù, ohun tí ò tó, ṣì ńbọ̀ wá ṣẹ́kù. `,
         lit : `If we are patient, whatever is insufficient will be in excess soon enough.`,
         eng : `With patience, virtually nothing is impossible.`
+    },
+    {
+        yor : `A kì í wo ago aláago ṣiṣẹ́.`,
+        lit : `Never carry out your duties using someone else's timepiece.`,
+        eng : `Do not compare yourself with anyone; stay in your lane; envy no one.`
     }
 ];
