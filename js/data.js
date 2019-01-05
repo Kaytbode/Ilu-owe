@@ -428,5 +428,10 @@ const proverbs = [
         yor : `A kì í wo ago aláago ṣiṣẹ́.`,
         lit : `Never carry out your duties using someone else's timepiece.`,
         eng : `Do not compare yourself with anyone; stay in your lane; envy no one.`
+    },
+    {
+        yor : `Adániwáyè ò gbàgbé ẹnìkan; àìmàsìkò ló ńdààmú ẹ̀dá.`,
+        lit : `God has not forgotten anyone; ignorance of divine timing is what makes us fret.`,
+        eng : `Keep hope alive; the best is yet to come.`
     }
 ];
