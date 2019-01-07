@@ -433,5 +433,10 @@ const proverbs = [
         yor : `Adániwáyè ò gbàgbé ẹnìkan; àìmàsìkò ló ńdààmú ẹ̀dá.`,
         lit : `God has not forgotten anyone; ignorance of divine timing is what makes us fret.`,
         eng : `Keep hope alive; the best is yet to come.`
+    },
+    {
+        yor : `Lẹ́hìn òkùnkùn biribiri, ìmọ́lẹ̀ á tàn.`,
+        lit : `After a pitch darkness, most assuredly comes the dawn.`,
+        eng : `Keep hope alive; it's not over yet; tough times are not forever.`
     }
 ];
