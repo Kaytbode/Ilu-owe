@@ -438,5 +438,10 @@ const proverbs = [
         yor : `Lẹ́hìn òkùnkùn biribiri, ìmọ́lẹ̀ á tàn.`,
         lit : `After a pitch darkness, most assuredly comes the dawn.`,
         eng : `Keep hope alive; it's not over yet; tough times are not forever.`
+    },
+    {
+        yor : `Kí a tó dé ibi tí à ńlọ, a lè kọ́kọ́ dé ibi tí a kò fẹ́.`,
+        lit : `Before getting to one's ultimate destination, one may have to get to where one would rather not be.`,
+        eng : `Be strategic: always look-ahead; be focused and undaunted.`
     }
 ];
