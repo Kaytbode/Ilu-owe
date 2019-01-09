@@ -443,5 +443,10 @@ const proverbs = [
         yor : `Kí a tó dé ibi tí à ńlọ, a lè kọ́kọ́ dé ibi tí a kò fẹ́.`,
         lit : `Before getting to one's ultimate destination, one may have to get to where one would rather not be.`,
         eng : `Be strategic: always look-ahead; be focused and undaunted.`
+    },
+    {
+        yor : `Bí inú bá bí baba tó bá gbé ọmọ rẹ̀ jù sí inú èèrùn, bí inú rẹ̀ bá rọ̀, inú èèrùn lè má rọ̀.`,
+        lit : `If a father gets so angry as to throw his child into a raid of army ants, by the time he calms down, the ants may not be.`,
+        eng : `Handle anger with caution; avoid rash decisions.`
     }
 ];
