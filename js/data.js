@@ -448,5 +448,10 @@ const proverbs = [
         yor : `Bí inú bá bí baba tó bá gbé ọmọ rẹ̀ jù sí inú èèrùn, bí inú rẹ̀ bá rọ̀, inú èèrùn lè má rọ̀.`,
         lit : `If a father gets so angry as to throw his child into a raid of army ants, by the time he calms down, the ants may not be.`,
         eng : `Handle anger with caution; avoid rash decisions.`
+    },
+    {
+        yor : `Tí ìtàkùn bá lè pa ẹnu pọ̀, wọ́n á mú erin so.`,
+        lit : `If creeping plants would unite (and collaborate), they would easily tie up an elephant.`,
+        eng : `Unity strengthens and empowers; pursue collaboration.`
     }
 ];
