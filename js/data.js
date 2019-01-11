@@ -453,5 +453,10 @@ const proverbs = [
         yor : `Tí ìtàkùn bá lè pa ẹnu pọ̀, wọ́n á mú erin so.`,
         lit : `If creeping plants would unite (and collaborate), they would easily tie up an elephant.`,
         eng : `Unity strengthens and empowers; pursue collaboration.`
+    },
+    {
+        yor : `Inú ilé ẹni la ti ńjẹ èkúté onídodo.`,
+        lit : `It's in the seclusion of one's home that one eats a rat with an outsized navel.`,
+        eng : `Some issues are better kept private.`
     }
 ];
