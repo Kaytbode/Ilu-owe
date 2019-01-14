@@ -438,5 +438,10 @@ const proverbs = [
         yor : `Ojú ló ńkán owó tó sọnù; ìgbà wo ni níná ò ní kàn án tẹ́lẹ̀?`,
         lit : `The sum of money that got lost is merely in haste; would it not be spent, eventually? `,
         eng : `Be patient; let things evolve at their time.`
+    },
+    {
+        yor : `Ọ̀pọ̀ ló fẹ lápa láì lápá, bí èèyàn ò sì lápá, kò leè lápa.`,
+        lit : `Many want to make a mark without effort, yet without effort, no marks can be made.`,
+        eng : `Nothing ventured, nothing gained; be willing to pay the price.`
     }
 ];
