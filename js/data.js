@@ -443,5 +443,10 @@ const proverbs = [
         yor : `Ọ̀pọ̀ ló fẹ lápa láì lápá, bí èèyàn ò sì lápá, kò leè lápa.`,
         lit : `Many want to make a mark without effort, yet without effort, no marks can be made.`,
         eng : `Nothing ventured, nothing gained; be willing to pay the price.`
+    },
+    {
+        yor : `Tí ẹ̀dá bá fẹ́ gba àwìn ẹ̀bà, ni wọ́n máa ńṣe ojú àánú; tí wọ́n bá yó tán, wọ́n á di ọkọ olúwa wọn.`,
+        lit : `People present a facade of humility when seeking favour; once satisfied, they easily lord it over their benefactors.`,
+        eng : `Be perceptive; appearance can be deceptive.`
     }
 ];
