@@ -448,5 +448,10 @@ const proverbs = [
         yor : `Tí ẹ̀dá bá fẹ́ gba àwìn ẹ̀bà, ni wọ́n máa ńṣe ojú àánú; tí wọ́n bá yó tán, wọ́n á di ọkọ olúwa wọn.`,
         lit : `People present a facade of humility when seeking favour; once satisfied, they easily lord it over their benefactors.`,
         eng : `Be perceptive; appearance can be deceptive.`
+    },
+    {
+        yor : `Agbọ́n tí géńdé rí tó ńsá, ni aláàmù ńṣà jẹ lẹ́ẹ̀gbẹ́ ògiri.`,
+        lit : `The same wasps that humans run from are what lizards, crawling on walls, easily snap up and eat.`,
+        eng : `Different strokes for different folks; what challenges someone may be well be an opportunity to another.`
     }
 ];
