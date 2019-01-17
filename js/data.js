@@ -453,5 +453,10 @@ const proverbs = [
         yor : `Agbọ́n tí géńdé rí tó ńsá, ni aláàmù ńṣà jẹ lẹ́ẹ̀gbẹ́ ògiri.`,
         lit : `The same wasps that humans run from are what lizards, crawling on walls, easily snap up and eat.`,
         eng : `Different strokes for different folks; what challenges someone may be well be an opportunity to another.`
+    },
+    {
+        yor : `Olè tó gbé kàkàkí ọba, níbo ni yóò ti fun ún?`,
+        lit : `Where would the thief who stole the king's bugle blow it?`,
+        eng : `We ought to walk in wisdom; some actions are inherently unwise and ultimately self-defeating.`
     }
 ];
