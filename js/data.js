@@ -458,5 +458,10 @@ const proverbs = [
         yor : `Olè tó gbé kàkàkí ọba, níbo ni yóò ti fun ún?`,
         lit : `Where would the thief who stole the king's bugle blow it?`,
         eng : `We ought to walk in wisdom; some actions are inherently unwise and ultimately self-defeating.`
+    },
+    {
+        yor : `Gbòngbò kan ṣoṣo kò gbọdọ̀ ré ọ̀jọ̀gbọ́n lẹ́ẹ̀pa lẹ́ẹ̀mejì.`,
+        lit : `The same tree stump should not trip a learned person twice.`,
+        eng : `Discretion is a better part of valour; a wise fish seldom gets caught twice with the same net.`
     }
 ];
