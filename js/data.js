@@ -463,5 +463,10 @@ const proverbs = [
         yor : `Gbòngbò kan ṣoṣo kò gbọdọ̀ ré ọ̀jọ̀gbọ́n lẹ́ẹ̀pa lẹ́ẹ̀mejì.`,
         lit : `The same tree stump should not trip a learned person twice.`,
         eng : `Discretion is a better part of valour; a wise fish seldom gets caught twice with the same net.`
+    },
+    {
+        yor : `Ẹyìn tí yóò di epo, yóò tọ́ iná wò.`,
+        lit : `A palm nut fruit that wants to become palm oil must be prepared to have a taste of fire.`,
+        eng : `Nothing ventured, nothing gained.`
     }
 ];
