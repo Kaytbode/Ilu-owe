@@ -468,5 +468,10 @@ const proverbs = [
         yor : `Ẹyìn tí yóò di epo, yóò tọ́ iná wò.`,
         lit : `A palm nut fruit that wants to become palm oil must be prepared to have a taste of fire.`,
         eng : `Nothing ventured, nothing gained.`
+    },
+    {
+        yor : `Àgbẹ̀ tí kòkó ẹ̀ yéè, kì í ṣe mímọ̀ọ́ ṣe ẹ̀, bíkòṣe Elédùà.`,
+        lit : `A farmer with a thriving cocoa farm owes this not just to his or her effort, but to God.`,
+        eng : `Modesty is it; we owe everything to God.`
     }
 ];
