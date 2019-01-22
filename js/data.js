@@ -470,8 +470,8 @@ const proverbs = [
         eng : `Nothing ventured, nothing gained.`
     },
     {
-        yor : `Àgbẹ̀ tí kòkó ẹ̀ yéè, kì í ṣe mímọ̀ọ́ ṣe ẹ̀, bíkòṣe Elédùà.`,
-        lit : `A farmer with a thriving cocoa farm owes this not just to his or her effort, but to God.`,
-        eng : `Modesty is it; we owe everything to God.`
+        yor : `A kì í tojú oníka mẹ́ẹ̀sán kàá.`,
+        lit : `Never openly count the toes of someone with nine toes.`,
+        eng : `Be considerate, courteous, and tactful; never deliberately and pointlessly embarass anyone.`
     }
 ];
