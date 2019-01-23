@@ -473,5 +473,10 @@ const proverbs = [
         yor : `A kì í tojú oníka mẹ́ẹ̀sán kàá.`,
         lit : `Never openly count the toes of someone with nine toes.`,
         eng : `Be considerate, courteous, and tactful; never deliberately and pointlessly embarass anyone.`
+    },
+    {
+        yor : `Obì tó bá fara pamọ́, ló máa ńgbó.`,
+        lit : `The kolanut fruit that hides itself is the one that grows to maturity.`,
+        eng : `It is good to fly under the radar sometimes; drawing undue attention to oneself isn't always beneficial.`
     }
 ];
