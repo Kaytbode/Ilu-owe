@@ -478,5 +478,10 @@ const proverbs = [
         yor : `Obì tó bá fara pamọ́, ló máa ńgbó.`,
         lit : `The kolanut fruit that hides itself is the one that grows to maturity.`,
         eng : `It is good to fly under the radar sometimes; drawing undue attention to oneself isn't always beneficial.`
+    },
+    {
+        yor : `Gèlè ò dùn bí i ká mọ̀ọ́ wé, ká mọ̀ọ́ wé, kò dà bí i kó yẹ'ni.`,
+        lit : `The beauty of a woman's head-tie lies not just in knowing how to tie it, but in how well it fits when tied.`,
+        eng : `Ultimately, end results not activities count.`
     }
 ];
