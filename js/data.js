@@ -483,5 +483,10 @@ const proverbs = [
         yor : `Gèlè ò dùn bí i ká mọ̀ọ́ wé, ká mọ̀ọ́ wé, kò dà bí i kó yẹ'ni.`,
         lit : `The beauty of a woman's head-tie lies not just in knowing how to tie it, but in how well it fits when tied.`,
         eng : `Ultimately, end results not activities count.`
+    },
+    {
+        yor : `Oò ṣá igi lọ́gbẹ́, oò ta ògùrọ̀ lọ́fà, o dé ìdí ọ̀pẹ, o ńgbẹ́'nu s'ókè, ṣé ọ̀fẹ́ ló máa ńro ni? `,
+        lit : `You neither cut an oil palm, nor punctured a raffia palm, yet you opened up your mouth under a palm for wine; does the wine drip freely?`,
+        eng : `Nothing ventured, nothing gained`
     }
 ];
