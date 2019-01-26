@@ -488,5 +488,10 @@ const proverbs = [
         yor : `Oò ṣá igi lọ́gbẹ́, oò ta ògùrọ̀ lọ́fà, o dé ìdí ọ̀pẹ, o ńgbẹ́'nu s'ókè, ṣé ọ̀fẹ́ ló máa ńro ni? `,
         lit : `You neither cut an oil palm, nor punctured a raffia palm, yet you opened up your mouth under a palm for wine; does the wine drip freely?`,
         eng : `Nothing ventured, nothing gained`
+    },
+    {
+        yor : `Obìnrin kì í dàgbà jù lọ́wọ́ ọkọ rẹ̀; bí eyín bá ku méjì lẹ́nu ìyá, ọmọge ni lójú baba.`,
+        lit : `A woman is never too old to her husband; even if she's lost all her teeth, a maiden she remains to her man.`,
+        eng : `Love is it; with love, other concerns pale.`
     }
 ];
