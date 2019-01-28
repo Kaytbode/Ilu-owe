@@ -493,5 +493,13 @@ const proverbs = [
         yor : `Obìnrin kì í dàgbà jù lọ́wọ́ ọkọ rẹ̀; bí eyín bá ku méjì lẹ́nu ìyá, ọmọge ni lójú baba.`,
         lit : `A woman is never too old to her husband; even if she's lost all her teeth, a maiden she remains to her man.`,
         eng : `Love is it; with love, other concerns pale.`
+    },
+    {
+        yor : `Ẹni tí kò bá lè ṣe bí aláàárù l'Óyìngbò, kò lè ṣe bí Adégbọrọ̀ l'Ọ́jà Ọba.`,
+        lit : `Whoever is not willing to be a hired hand in a local market, cannot hope to become a wealthy merchant in a major one.`,
+        eng : `Be willing to start with what you have, right where you are.`
     }
+     /
+ 
+[]
 ];
