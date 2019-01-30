@@ -503,5 +503,10 @@ const proverbs = [
         yor : `Tí òjò bá kọ̀ tí kò rọ̀, ìyẹn ò ní ká sọ pé, kí omi òkun ya wọ ìlú. `,
         lit : `That it has not rained for a while is no reason to wish the sea would flood the city.`,
         eng : `Reactions should be commensurate; adopt extreme and radical measures with caution.`
+    },
+    {
+        yor : `Oko dùn ńro, l'agbẹdẹ ṣe ńrọ ọkọ́!`,
+        lit : `Farming is so great, which is why blacksmiths opt to make hoes (for others)!`,
+        eng : `Be perceptive to read between the lines; the proverb employs sarcasm to indicate that actions generally speak louder than words.`
     }
 ];
