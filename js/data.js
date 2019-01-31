@@ -508,5 +508,10 @@ const proverbs = [
         yor : `Oko dùn ńro, l'agbẹdẹ ṣe ńrọ ọkọ́!`,
         lit : `Farming is so great, which is why blacksmiths opt to make hoes (for others)!`,
         eng : `Be perceptive to read between the lines; the proverb employs sarcasm to indicate that actions generally speak louder than words.`
+    },
+    {
+        yor : `Pẹ̀lẹ́pẹ̀lẹ́ la ńpa àmúkùrù ẹpọ̀n. `,
+        lit : `It is with gentleness and caution that one kills the black ant lodged around the scrotum.`,
+        eng : `A delicate matter must be gently and carefully handled.`
     }
 ];
