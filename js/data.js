@@ -513,5 +513,10 @@ const proverbs = [
         yor : `Pẹ̀lẹ́pẹ̀lẹ́ la ńpa àmúkùrù ẹpọ̀n. `,
         lit : `It is with gentleness and caution that one kills the black ant lodged around the scrotum.`,
         eng : `A delicate matter must be gently and carefully handled.`
+    },
+    {
+        yor : `Àjọjẹ ò dùn bí ẹnìkan ò bá ní; ọjọ́ a ní la ńṣe àjọjẹ.`,
+        lit : `Sharing can be hard going when one party lacks; we are usually happy to share, when we all can give.`,
+        eng : `It's good to give to others, but better to empower them; it's better to teach people to fish than give them fish`
     }
 ];
