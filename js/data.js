@@ -518,5 +518,10 @@ const proverbs = [
         yor : `Àjọjẹ ò dùn bí ẹnìkan ò bá ní; ọjọ́ a ní la ńṣe àjọjẹ.`,
         lit : `Sharing can be hard going when one party lacks; we are usually happy to share, when we all can give.`,
         eng : `It's good to give to others, but better to empower them; it's better to teach people to fish than give them fish`
+    },
+    {
+        yor : `Ọbẹ̀ tó dùn kì í pẹ́ nínú ìṣasùn.`,
+        lit : `A tasty soup seldom lasts long in the cooking pot.`,
+        eng : `Everybody loves good things; if it is good, it will be in high demand.`
     }
 ];
