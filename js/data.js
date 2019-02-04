@@ -523,5 +523,10 @@ const proverbs = [
         yor : `Ọbẹ̀ tó dùn kì í pẹ́ nínú ìṣasùn.`,
         lit : `A tasty soup seldom lasts long in the cooking pot.`,
         eng : `Everybody loves good things; if it is good, it will be in high demand.`
+    },
+    {
+        yor : `Ẹni tó bá ní tòún bàjẹ́, tó bá rí ti ẹlòmíì á yin Ọlọ́run lógo.`,
+        lit : `Whoever feels his case is deplorable will give glory to God on learning of another's (possibly worse case).`,
+        eng : `Contentment and attitude of gratitude are great virtues.`
     }
 ];
