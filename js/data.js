@@ -528,5 +528,10 @@ const proverbs = [
         yor : `Ẹni tó bá ní tòún bàjẹ́, tó bá rí ti ẹlòmíì á yin Ọlọ́run lógo.`,
         lit : `Whoever feels his case is deplorable will give glory to God on learning of another's (possibly worse case).`,
         eng : `Contentment and attitude of gratitude are great virtues.`
+    },
+    {
+        yor : `Ààrò kì í gbóná kó má tutù.`,
+        lit : `The hearth does not get hot, without becoming cold eventually.`,
+        eng : `Whatever is hot today, will one day become cold; tough times won't last forever; keep hope alive.`
     }
 ];
