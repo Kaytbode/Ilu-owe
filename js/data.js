@@ -533,5 +533,10 @@ const proverbs = [
         yor : `Ààrò kì í gbóná kó má tutù.`,
         lit : `The hearth does not get hot, without becoming cold eventually.`,
         eng : `Whatever is hot today, will one day become cold; tough times won't last forever; keep hope alive.`
+    },
+    {
+        yor : `Àgbẹ̀ tó roko tí kò gbin ọkà lóun dá ikún lóró; ikún kọ́ ló dá lóró, ara ẹ̀ ló dá lóró.`,
+        lit : `A farmer ploughed his farm, but refused to plant any corn & claimed he's hurting the ground squirrel; he hasn't hurt the squirrel, but himself.`,
+        eng : `Vindictive actions can be self-defeating.`
     }
 ];
