@@ -538,5 +538,10 @@ const proverbs = [
         yor : `Àgbẹ̀ tó roko tí kò gbin ọkà lóun dá ikún lóró; ikún kọ́ ló dá lóró, ara ẹ̀ ló dá lóró.`,
         lit : `A farmer ploughed his farm, but refused to plant any corn & claimed he's hurting the ground squirrel; he hasn't hurt the squirrel, but himself.`,
         eng : `Vindictive actions can be self-defeating.`
+    },
+    {
+        yor : `Adẹ́tẹ̀ ò lè fún wàrà, ṣùgbọ́n ó lè da wàrà nù.`,
+        lit : `A leper is unable to express milk, but can very well waste it.`,
+        eng : `Ignore or underestimate no one; those who cannot build, may be able to cause untold destruction.`
     }
 ];
