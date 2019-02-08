@@ -543,5 +543,10 @@ const proverbs = [
         yor : `Adẹ́tẹ̀ ò lè fún wàrà, ṣùgbọ́n ó lè da wàrà nù.`,
         lit : `A leper is unable to express milk, but can very well waste it.`,
         eng : `Ignore or underestimate no one; those who cannot build, may be able to cause untold destruction.`
+    },
+    {
+        yor : `Àjùmọ̀bí kò kan ti àánú, ẹni orí rán sí'ni ló ńṣe'ni lóore.`,
+        lit : `Kindness may not necessarily come from one's siblings but those divinely sent to one.`,
+        eng : `Help may not necessarily come from expected sources; keep an open-mind, always.`
     }
 ];
