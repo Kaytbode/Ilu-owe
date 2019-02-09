@@ -548,5 +548,10 @@ const proverbs = [
         yor : `Àjùmọ̀bí kò kan ti àánú, ẹni orí rán sí'ni ló ńṣe'ni lóore.`,
         lit : `Kindness may not necessarily come from one's siblings but those divinely sent to one.`,
         eng : `Help may not necessarily come from expected sources; keep an open-mind, always.`
+    },
+    {
+        yor : `Òkò tí a bá bínú jù, kì í pa ẹyẹ.`,
+        lit : `A stone thrown at a bird in anger cannot kill the bird.`,
+        eng : `Actions taken in anger seldom achieve desired goals; master your emotions.`
     }
 ];
