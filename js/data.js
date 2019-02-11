@@ -553,5 +553,10 @@ const proverbs = [
         yor : `Òkò tí a bá bínú jù, kì í pa ẹyẹ.`,
         lit : `A stone thrown at a bird in anger cannot kill the bird.`,
         eng : `Actions taken in anger seldom achieve desired goals; master your emotions.`
+    },
+    {
+        yor : `Àyè kì í há adìyẹ kó má lè dé ìdí àba rẹ̀.`,
+        lit : `A hen is never too busy to brood over its eggs.`,
+        eng : `We are always able to make time for what is crucial to us.`
     }
 ];
