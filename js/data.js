@@ -558,5 +558,10 @@ const proverbs = [
         yor : `Àyè kì í há adìyẹ kó má lè dé ìdí àba rẹ̀.`,
         lit : `A hen is never too busy to brood over its eggs.`,
         eng : `We are always able to make time for what is crucial to us.`
+    },
+    {
+        yor : `A kì í bínú sí ẹni tí a kò rí.`,
+        lit : `Never be angry with someone you have not seen (or first heard out).`,
+        eng : `Never rush to judgment; there is always a chance you could be wrong; always give people the benefit of the doubt.`
     }
 ];
