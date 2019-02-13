@@ -563,5 +563,10 @@ const proverbs = [
         yor : `A kì í bínú sí ẹni tí a kò rí.`,
         lit : `Never be angry with someone you have not seen (or first heard out).`,
         eng : `Never rush to judgment; there is always a chance you could be wrong; always give people the benefit of the doubt.`
+    },
+    {
+        yor : `Ọ̀pọ̀lọ́ gbé ọmọ sílẹ̀ ó gbé ọkọ pọ̀n, ó lọ́rọ̀ ọkọ bàǹtà banta ni.`,
+        lit : `The frog dropped its baby to back its mate, saying husbands are crucial.`,
+        eng : `Love is powerful; virtually nothing is impossible or irrational, where love exists.`
     }
 ];
