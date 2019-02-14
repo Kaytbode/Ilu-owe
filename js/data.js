@@ -568,5 +568,10 @@ const proverbs = [
         yor : `Ọ̀pọ̀lọ́ gbé ọmọ sílẹ̀ ó gbé ọkọ pọ̀n, ó lọ́rọ̀ ọkọ bàǹtà banta ni.`,
         lit : `The frog dropped its baby to back its mate, saying husbands are crucial.`,
         eng : `Love is powerful; virtually nothing is impossible or irrational, where love exists.`
+    },
+    {
+        yor : `Ilẹ̀ àánú Olúwa kì í ṣú.`,
+        lit : `The sun of God's mercy never sets.`,
+        eng : `God's mercy never runs out; keep hope alive and trust Him.`
     }
 ];
