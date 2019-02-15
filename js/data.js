@@ -573,5 +573,10 @@ const proverbs = [
         yor : `Ilẹ̀ àánú Olúwa kì í ṣú.`,
         lit : `The sun of God's mercy never sets.`,
         eng : `God's mercy never runs out; keep hope alive and trust Him.`
+    },
+    {
+        yor : `Ìfẹ́ fọ́jú; obìnrin tí a bá fẹ́ràn, kì í ní àléébù.`,
+        lit : `Love is blind; a woman one truly loves seldom has blemishes.`,
+        eng : `With love, other concerns pale; if it's wrong, love won't see it.`
     }
 ];
