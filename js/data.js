@@ -578,5 +578,10 @@ const proverbs = [
         yor : `Ìfẹ́ fọ́jú; obìnrin tí a bá fẹ́ràn, kì í ní àléébù.`,
         lit : `Love is blind; a woman one truly loves seldom has blemishes.`,
         eng : `With love, other concerns pale; if it's wrong, love won't see it.`
+    },
+    {
+        yor : `Ẹni tí a fẹ́ rí, la fẹ́ rí; kò sí ọjọ́ táa jí, táà rí èèyàn.`,
+        lit : `Our hearts yearn only for those we desire; there's no day we wake without people around us.`,
+        eng : `Love can be choosy; loneliness is not for want of people around.`
     }
 ];
