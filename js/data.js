@@ -583,5 +583,10 @@ const proverbs = [
         yor : `Ẹni tí a fẹ́ rí, la fẹ́ rí; kò sí ọjọ́ táa jí, táà rí èèyàn.`,
         lit : `Our hearts yearn only for those we desire; there's no day we wake without people around us.`,
         eng : `Love can be choosy; loneliness is not for want of people around.`
+    },
+    {
+        yor : `Ìrèké ò níbùdó; ibi gbogbo ló gba alágbára.`,
+        lit : `The sprouting of the sugarcane is not constrained to a specific place; every situation suits a hard worker just fine.`,
+        eng : `Diligence pays; the diligent person seldom whines.`
     }
 ];
