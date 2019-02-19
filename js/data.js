@@ -588,5 +588,10 @@ const proverbs = [
         yor : `Ìrèké ò níbùdó; ibi gbogbo ló gba alágbára.`,
         lit : `The sprouting of the sugarcane is not constrained to a specific place; every situation suits a hard worker just fine.`,
         eng : `Diligence pays; the diligent person seldom whines.`
+    },
+    {
+        yor : `Agara kì í dá oníṣẹ́ Ọlọ́run.`,
+        lit : `God's messenger never grows weary.`,
+        eng : `God cannot be overwhelmed with man's needs.`
     }
 ];
