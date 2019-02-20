@@ -593,5 +593,10 @@ const proverbs = [
         yor : `Agara kì í dá oníṣẹ́ Ọlọ́run.`,
         lit : `God's messenger never grows weary.`,
         eng : `God cannot be overwhelmed with man's needs.`
+    },
+    {
+        yor : `A kì í dámọ̀nràn àti tà'kìtì lágbàlá ọ̀bọ, nítorí ọ̀bọ fúnra'ra rẹ̀, ọba òkìtì ni.`,
+        lit : `Never toy with the idea of  somersaulting in the vicinity of a monkey; monkeys themselves, are experts at somersaulting.`,
+        eng : `Be modest; never make a public show of your ignorance`
     }
 ];
