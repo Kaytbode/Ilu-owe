@@ -598,5 +598,10 @@ const proverbs = [
         yor : `A kì í dámọ̀nràn àti tà'kìtì lágbàlá ọ̀bọ, nítorí ọ̀bọ fúnra'ra rẹ̀, ọba òkìtì ni.`,
         lit : `Never toy with the idea of  somersaulting in the vicinity of a monkey; monkeys themselves, are experts at somersaulting.`,
         eng : `Be modest; never make a public show of your ignorance`
+    },
+    {
+        yor : `Ọ̀gẹ̀dẹ̀ dùn tó bá pọ́n, ṣùgbọ́n tó bá pọ́n láàpọ́njù, oúnjẹ ni fún ẹyẹ oko.`,
+        lit : `Banana is sweet when ripe, but it will become food for the birds, if it's overripe.`,
+        eng : `Be moderate, even in good things; immoderation, quite often, can be costly.`
     }
 ];
