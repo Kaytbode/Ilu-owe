@@ -603,5 +603,10 @@ const proverbs = [
         yor : `Ọ̀gẹ̀dẹ̀ dùn tó bá pọ́n, ṣùgbọ́n tó bá pọ́n láàpọ́njù, oúnjẹ ni fún ẹyẹ oko.`,
         lit : `Banana is sweet when ripe, but it will become food for the birds, if it's overripe.`,
         eng : `Be moderate, even in good things; immoderation, quite often, can be costly.`
+    },
+    {
+        yor : `Àì rìn jìnnà, làì rí abuké ọ̀kẹ́rẹ́; afọ́jú ẹyẹ ńbẹ lóko kárinkése`,
+        lit : `Not travelling far enough is why one may not have seen a squirrel with a hump; blind birds can be found deep in the forest.`,
+        eng : `Lack of exposure often results in narrow-mindness; exposure broadens the mind`
     }
 ];
