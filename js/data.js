@@ -608,5 +608,10 @@ const proverbs = [
         yor : `Àì rìn jìnnà, làì rí abuké ọ̀kẹ́rẹ́; afọ́jú ẹyẹ ńbẹ lóko kárinkése`,
         lit : `Not travelling far enough is why one may not have seen a squirrel with a hump; blind birds can be found deep in the forest.`,
         eng : `Lack of exposure often results in narrow-mindness; exposure broadens the mind`
+    },
+    {
+        yor : `Ẹni tó wọ bàtà nìkan ló mọ ibi tó ti ńta òun lẹ́sẹ̀.`,
+        lit : `Only the wearer knows where the shoe pinches.`,
+        eng : `Be tolerant and empathetic; you never know for sure what anyone is going through.`
     }
 ];
