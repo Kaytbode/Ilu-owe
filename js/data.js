@@ -613,5 +613,10 @@ const proverbs = [
         yor : `Ẹni tó wọ bàtà nìkan ló mọ ibi tó ti ńta òun lẹ́sẹ̀.`,
         lit : `Only the wearer knows where the shoe pinches.`,
         eng : `Be tolerant and empathetic; you never know for sure what anyone is going through.`
-    }
+    },
+    {
+        yor : `A kì í dá aró ní Ìṣokùn; àlà ni wọ́n ńlò níbẹ̀.`,
+        lit : `No one engages in a cloth dyeing venture in Isokun Town; only whites (clothes) are worn there.`,
+        eng : `Supply should respond to demand; never supply or offer what is not required.`
+    },
 ];
