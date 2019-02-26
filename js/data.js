@@ -619,4 +619,9 @@ const proverbs = [
         lit : `No one engages in a cloth dyeing venture in Isokun Town; only whites (clothes) are worn there.`,
         eng : `Supply should respond to demand; never supply or offer what is not required.`
     },
+    {
+        yor : `Kò sí ẹni tí Ọlọ́run ò ṣe fún, à fi ẹni tó bá ni tòun ò tó.`,
+        lit : `There is no one God has not blessed, except those who believed they have not been blessed enough.`,
+        eng : `We all have reasons to be grateful; we have all being blessed, albeit in different ways.`
+    },
 ];
