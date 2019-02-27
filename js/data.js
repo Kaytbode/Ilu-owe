@@ -624,4 +624,9 @@ const proverbs = [
         lit : `There is no one God has not blessed, except those who believed they have not been blessed enough.`,
         eng : `We all have reasons to be grateful; we have all being blessed, albeit in different ways.`
     },
+    {
+        yor : `Gbólóhùn ọ̀rọ̀ kan a máa yí ìpinnu ogún ọdún padà.`,
+        lit : `A single sentence is well able to change a decision of twenty years.`,
+        eng : `Words are powerful; use them wisely; speak in wisdom.`
+    }
 ];
