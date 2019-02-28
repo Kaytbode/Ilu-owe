@@ -628,5 +628,10 @@ const proverbs = [
         yor : `Gbólóhùn ọ̀rọ̀ kan a máa yí ìpinnu ogún ọdún padà.`,
         lit : `A single sentence is well able to change a decision of twenty years.`,
         eng : `Words are powerful; use them wisely; speak in wisdom.`
+    },
+    {
+        yor : `Bí ọsàn bá dúdú, ó ńpadà bọ̀ wá pọ́n ni.`,
+        lit : `An unripe orange will most assuredly become ripe, eventually.`,
+        eng : `Keep hope alive; the best is yet to come.`
     }
 ];
