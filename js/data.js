@@ -633,5 +633,10 @@ const proverbs = [
         yor : `Bí ọsàn bá dúdú, ó ńpadà bọ̀ wá pọ́n ni.`,
         lit : `An unripe orange will most assuredly become ripe, eventually.`,
         eng : `Keep hope alive; the best is yet to come.`
+    },
+    {
+        yor : `Omi tí èyàn máa mu, kò ní ṣàn kọjá rẹ̀.`,
+        lit : `A stream from which one will drink will not flow beyond one's reach.`,
+        eng : `Keep hope alive; never give up.`
     }
 ];
