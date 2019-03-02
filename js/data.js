@@ -638,5 +638,10 @@ const proverbs = [
         yor : `Omi tí èyàn máa mu, kò ní ṣàn kọjá rẹ̀.`,
         lit : `A stream from which one will drink will not flow beyond one's reach.`,
         eng : `Keep hope alive; never give up.`
+    },
+    {
+        yor : `Gbogbo ohun tó ńdán kọ́ ni wúrà.`,
+        lit : `Not all that glitters is gold.`,
+        eng : `Appearance can be deceptive.`
     }
 ];
