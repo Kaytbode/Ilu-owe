@@ -643,5 +643,10 @@ const proverbs = [
         yor : `Gbogbo ohun tó ńdán kọ́ ni wúrà.`,
         lit : `Not all that glitters is gold.`,
         eng : `Appearance can be deceptive.`
+    },
+    {
+        yor : `Kò sí ohun tí à ńjẹ tí kì í tán, à fi ọlá Ọlọrun.`,
+        lit : `Except the blessing of God, there is nothing one eats that won't be exhausted, eventually.`,
+        eng : `Only the blessings from God endure.`
     }
 ];
