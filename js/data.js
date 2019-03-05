@@ -648,5 +648,10 @@ const proverbs = [
         yor : `Kò sí ohun tí à ńjẹ tí kì í tán, à fi ọlá Ọlọrun.`,
         lit : `Except the blessing of God, there is nothing one eats that won't be exhausted, eventually.`,
         eng : `Only the blessings from God endure.`
+    },
+    {
+        yor : `Èéfín ni ìwà; kò ṣeé fi pamọ́. `,
+        lit : `Character is like smoke; it cannot be covered up.`,
+        eng : `We cannot pretend to be who we are not for very long.`
     }
 ];
