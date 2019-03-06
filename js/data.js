@@ -653,5 +653,10 @@ const proverbs = [
         yor : `Èéfín ni ìwà; kò ṣeé fi pamọ́. `,
         lit : `Character is like smoke; it cannot be covered up.`,
         eng : `We cannot pretend to be who we are not for very long.`
+    },
+    {
+        yor : `Ọgbọ́n àgbọ́njù, ni í pa òdù ọ̀yà.`,
+        lit : `Unbridled craftiness is what kills the grown grasscutter.`,
+        eng : `Crafty people eventually self-destruct; pursue a win-win scenario rather.`
     }
 ];
