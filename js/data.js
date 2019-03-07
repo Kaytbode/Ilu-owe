@@ -658,5 +658,10 @@ const proverbs = [
         yor : `Ọgbọ́n àgbọ́njù, ni í pa òdù ọ̀yà.`,
         lit : `Unbridled craftiness is what kills the grown grasscutter.`,
         eng : `Crafty people eventually self-destruct; pursue a win-win scenario rather.`
+    },
+    {
+        yor : `Ẹranko tó ya wèrè bí ẹṣin ò wọ́pọ̀: ẹṣin fi ọmọ rẹ̀ sílẹ̀ ó ńgbé ọmọ ọlọ́mọ kiri.`,
+        lit : `Not many animals are as stupid as the horse: it left its offspring unattended and carried those of others around.`,
+        eng : `Care for others, if you may, but don't neglect your own, either.`
     }
 ];
