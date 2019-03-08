@@ -663,5 +663,10 @@ const proverbs = [
         yor : `Ẹranko tó ya wèrè bí ẹṣin ò wọ́pọ̀: ẹṣin fi ọmọ rẹ̀ sílẹ̀ ó ńgbé ọmọ ọlọ́mọ kiri.`,
         lit : `Not many animals are as stupid as the horse: it left its offspring unattended and carried those of others around.`,
         eng : `Care for others, if you may, but don't neglect your own, either.`
+    },
+    {
+        yor : `Oníjó tó bá jó mọ níwọ̀n, ló ńjó pẹ́; èyí tí kò bá jó mọ níwọ̀n, máa ńjó tẹ́ ni.`,
+        lit : `A dancer who dances moderately is the one who dances for long; the one who doesn't dance moderately courts shame.`,
+        eng : `Moderation is it.`
     }
 ];
