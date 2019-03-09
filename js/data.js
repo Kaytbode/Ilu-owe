@@ -668,5 +668,10 @@ const proverbs = [
         yor : `Oníjó tó bá jó mọ níwọ̀n, ló ńjó pẹ́; èyí tí kò bá jó mọ níwọ̀n, máa ńjó tẹ́ ni.`,
         lit : `A dancer who dances moderately is the one who dances for long; the one who doesn't dance moderately courts shame.`,
         eng : `Moderation is it.`
+    },
+    {
+        yor : `Ojú tí yóò bá'ni kalẹ́, ki í ti àárọ̀ ṣe ipin.`,
+        lit : `A pair of eyes that will serve one until old age will not be rheumy while one is young.`,
+        eng : `Be perceptive; whatever will stand the test of time shouldn't be having issues earlier on.`
     }
 ];
