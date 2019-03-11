@@ -673,5 +673,10 @@ const proverbs = [
         yor : `Ojú tí yóò bá'ni kalẹ́, ki í ti àárọ̀ ṣe ipin.`,
         lit : `A pair of eyes that will serve one until old age will not be rheumy while one is young.`,
         eng : `Be perceptive; whatever will stand the test of time shouldn't be having issues earlier on.`
+    },
+    {
+        yor : `Igi tó tọ́ kì í pẹ́ n'ígbó.`,
+        lit : `Trees of value seldom remain in the forest for long.`,
+        eng : `What is of value is often in high demand; maintain a passion for excellence and leave a good legacy.`
     }
 ];
