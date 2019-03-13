@@ -683,5 +683,10 @@ const proverbs = [
         yor : `Bí onírèsé bá kọ̀ tí ò fín igbá mọ́, èyí tó ti fín ò leè parun.`,
         lit : `Even if the calabash carver no longer carves calabashes, those already carved will still remain.`,
         eng : `We are outlived by our legacy.`
+    },
+    {
+        yor : `Tí àdúrà bá gbà tán, apá aládúrà ò ní ka.`,
+        lit : `When a prayer is answered, the person who prayed would be overwhelmed.`,
+        eng : `Prayers work; answers may be so complete as to be overwhelming.`
     }
 ];
