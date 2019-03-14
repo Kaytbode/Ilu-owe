@@ -688,5 +688,10 @@ const proverbs = [
         yor : `Tí àdúrà bá gbà tán, apá aládúrà ò ní ka.`,
         lit : `When a prayer is answered, the person who prayed would be overwhelmed.`,
         eng : `Prayers work; answers may be so complete as to be overwhelming.`
+    },
+    {
+        yor : `Ẹranko tó bá ṣiyèméjì lọdẹ ńpa.`,
+        lit : `An indecisive animal easily gets killed by the hunter.`,
+        eng : `Be decisive; indecision can be risky.`
     }
 ];
