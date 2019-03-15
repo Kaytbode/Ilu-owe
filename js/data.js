@@ -693,5 +693,10 @@ const proverbs = [
         yor : `Ẹranko tó bá ṣiyèméjì lọdẹ ńpa.`,
         lit : `An indecisive animal easily gets killed by the hunter.`,
         eng : `Be decisive; indecision can be risky.`
+    },
+    {
+        yor : `Bàtà orí àkìtàn náà re òde ìyàwò rí.`,
+        lit : `Those pair of shoes on the refuse dump was once worn to a wedding.`,
+        eng : `Life is turn by turn; a season goes, another comes; nothing lasts forever.`
     }
 ];
