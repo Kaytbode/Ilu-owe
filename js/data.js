@@ -698,5 +698,10 @@ const proverbs = [
         yor : `Bàtà orí àkìtàn náà re òde ìyàwò rí.`,
         lit : `Those pair of shoes on the refuse dump was once worn to a wedding.`,
         eng : `Life is turn by turn; a season goes, another comes; nothing lasts forever.`
+    },
+    {
+        yor : `Aláǹgbá tó jábọ́ lórí ìrókò, ó ní bí ẹnìkan ò yin òun, òun á yin ara òun.`,
+        lit : `The lizard that fell from a teak tree (unharmed), says if it receives no praise from anyone, it will praise itself.`,
+        eng : `It is okay to be your own cheerleader; celebrate your successes.`
     }
 ];
