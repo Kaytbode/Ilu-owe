@@ -703,5 +703,10 @@ const proverbs = [
         yor : `Aláǹgbá tó jábọ́ lórí ìrókò, ó ní bí ẹnìkan ò yin òun, òun á yin ara òun.`,
         lit : `The lizard that fell from a teak tree (unharmed), says if it receives no praise from anyone, it will praise itself.`,
         eng : `It is okay to be your own cheerleader; celebrate your successes.`
+    },
+    {
+        yor : `Adùn-ńṣe bí ohun tí Ọlọ́run lọ́wọ́ sí, aṣòroóṣe bí èyí tí Ọlọ́run ò fẹ́.`,
+        lit : `As easy to do as what God sanctions, and as difficult to achieve as what He opposes.`,
+        eng : `If God is in it, it will work out; keep hope alive.`
     }
 ];
