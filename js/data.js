@@ -708,5 +708,10 @@ const proverbs = [
         yor : `Adùn-ńṣe bí ohun tí Ọlọ́run lọ́wọ́ sí, aṣòroóṣe bí èyí tí Ọlọ́run ò fẹ́.`,
         lit : `As easy to do as what God sanctions, and as difficult to achieve as what He opposes.`,
         eng : `If God is in it, it will work out; keep hope alive.`
+    },
+    {
+        yor : `Ẹni tó gbé ìlù rẹ̀ kọ́ apá, ayé ńbáa lùú, áńbọ̀tórí ẹni tó gbé tirẹ̀ kọ́ igi tó ṣeré lọ.`,
+        lit : `The person who hung his drum on his elbow, had the drum beaten by others, not to mention someone who hung his drum on a tree and walked away.`,
+        eng : `Diligence is it; no complacency`
     }
 ];
