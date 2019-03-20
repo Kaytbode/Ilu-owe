@@ -712,6 +712,11 @@ const proverbs = [
     {
         yor : `Ẹni tó gbé ìlù rẹ̀ kọ́ apá, ayé ńbáa lùú, áńbọ̀tórí ẹni tó gbé tirẹ̀ kọ́ igi tó ṣeré lọ.`,
         lit : `The person who hung his drum on his elbow, had the drum beaten by others, not to mention someone who hung his drum on a tree and walked away.`,
-        eng : `Diligence is it; no complacency`
+        eng : `Diligence is it; no complacency.`
+    },
+    {
+        yor : `Òkun kì í hó ruru, kí á wàá ruru.`,
+        lit : `Never paddle wildly in a stormy sea.`,
+        eng : `Be patient; complex issues need to be patiently handled.`
     }
 ];
