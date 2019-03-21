@@ -718,5 +718,10 @@ const proverbs = [
         yor : `Òkun kì í hó ruru, kí á wàá ruru.`,
         lit : `Never paddle wildly in a stormy sea.`,
         eng : `Be patient; complex issues need to be patiently handled.`
+    },
+    {
+        yor : `A kì í gbọ́ kúkù òjò da omi agbada nù.`,
+        lit : `We shouldn't pour away the water in the trough simply because the cloud rumbles.`,
+        eng : `Don't be presumptuous; never count your chickens before they are hatched.`
     }
 ];
