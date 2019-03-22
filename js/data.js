@@ -723,5 +723,10 @@ const proverbs = [
         yor : `A kì í gbọ́ kúkù òjò da omi agbada nù.`,
         lit : `We shouldn't pour away the water in the trough simply because the cloud rumbles.`,
         eng : `Don't be presumptuous; never count your chickens before they are hatched.`
+    },
+    {
+        yor : `Ká máa náwó, kò ní kí ówó ó tán; ká ya ahun, kò ní kí owó ó pọ̀ si.`,
+        lit : `Generosity does not necessarily make one poor nor does stinginess make one rich.`,
+        eng : `Generosity is it; kindness pays.`
     }
 ];
