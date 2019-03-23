@@ -728,5 +728,10 @@ const proverbs = [
         yor : `Ká máa náwó, kò ní kí ówó ó tán; ká ya ahun, kò ní kí owó ó pọ̀ si.`,
         lit : `Generosity does not necessarily make one poor nor does stinginess make one rich.`,
         eng : `Generosity is it; kindness pays.`
+    },
+    {
+        yor : `Ológùńná kan, kì í rìn létí odò.`,
+        lit : `A person with a single ember ought not to walk by the river bank.`,
+        eng : `Be cautious; avoid intolerably high risks or scenarios with zero way out.`
     }
 ];
