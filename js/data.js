@@ -733,5 +733,10 @@ const proverbs = [
         yor : `Ológùńná kan, kì í rìn létí odò.`,
         lit : `A person with a single ember ought not to walk by the river bank.`,
         eng : `Be cautious; avoid intolerably high risks or scenarios with zero way out.`
-    }
+    },
+    {
+        yor: `Kò sí ohun tí sùúrù sè, tí kò jinná.`,
+        lit: `There is nothing 'cooked' by patience that won't get done.`, 
+        eng: `Don’t give up; with patience, even complex issues get resolved.`
+     }
 ];
