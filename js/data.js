@@ -738,5 +738,10 @@ const proverbs = [
         yor: `Kò sí ohun tí sùúrù sè, tí kò jinná.`,
         lit: `There is nothing 'cooked' by patience that won't get done.`, 
         eng: `Don’t give up; with patience, even complex issues get resolved.`
+     },
+     {
+        yor: `Àgbẹ̀ tí kòkó ẹ̀ yè, kì í ṣe mímọ̀ọ́ ṣe ẹ̀, bíkòṣe Elédùà.`,
+        lit: `A farmer with a thriving cocoa farm owes this not just to his effort, but to God.`, 
+        eng: `Be modest; we owe everything to God.`
      }
 ];
