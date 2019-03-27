@@ -743,5 +743,10 @@ const proverbs = [
         yor: `Àgbẹ̀ tí kòkó ẹ̀ yè, kì í ṣe mímọ̀ọ́ ṣe ẹ̀, bíkòṣe Elédùà.`,
         lit: `A farmer with a thriving cocoa farm owes this not just to his effort, but to God.`, 
         eng: `Be modest; we owe everything to God.`
+     },
+     {
+        yor: `Mọ̀jà, mọ̀sá, ni ti akínkanjú; akínkanjú tó bá mọ̀ọ́ jà tí kò mọ̀ọ́ sá á bá ogun lọ. `,
+        lit: `Warriors must know when to fight and when to retreat; a warrior who knows when to fight but not when to retreat would perish in battle.`, 
+        eng: `Know when to pursue, defer or quit.`
      }
 ];
