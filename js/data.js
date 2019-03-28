@@ -748,5 +748,10 @@ const proverbs = [
         yor: `Mọ̀jà, mọ̀sá, ni ti akínkanjú; akínkanjú tó bá mọ̀ọ́ jà tí kò mọ̀ọ́ sá á bá ogun lọ. `,
         lit: `Warriors must know when to fight and when to retreat; a warrior who knows when to fight but not when to retreat would perish in battle.`, 
         eng: `Know when to pursue, defer or quit.`
+     },
+     {
+        yor: `Ìbẹ̀rẹ̀ kọ́ l'oníṣẹ́, à fi ẹni tó bá fi orí tì í d'ópin.`,
+        lit: `A good worker is not necessarily the one who starts something, but the one who finishes it.`, 
+        eng: `To start any task is not as crucial as seeing it through to completion.`
      }
 ];
