@@ -753,5 +753,10 @@ const proverbs = [
         yor: `Ìbẹ̀rẹ̀ kọ́ l'oníṣẹ́, à fi ẹni tó bá fi orí tì í d'ópin.`,
         lit: `A good worker is not necessarily the one who starts something, but the one who finishes it.`, 
         eng: `To start any task is not as crucial as seeing it through to completion.`
+     },
+     {
+        yor: `Kò sí ìgbà tí a dá aṣọ, tá ò rí ìgbà fi lòó.`,
+        lit: `There is no time one buys clothes that one won't have opportunity to  wear them.`, 
+        eng: `Contentment is it.`
      }
 ];
