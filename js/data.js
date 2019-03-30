@@ -758,5 +758,10 @@ const proverbs = [
         yor: `Kò sí ìgbà tí a dá aṣọ, tá ò rí ìgbà fi lòó.`,
         lit: `There is no time one buys clothes that one won't have opportunity to  wear them.`, 
         eng: `Contentment is it.`
+     },
+     {
+        yor: `Wọ́n ní kí olókùnrùn ṣe 'tó' ó lóun ò lè ṣe 'tó tò tó'.`,
+        lit: `A sick man who was asked to merely say 'to', profusely insisted he cannot say 'to to to'.`, 
+        eng: `Be efficient; don't waste effort rejecting what would have taken far less to accept.`
      }
 ];
