@@ -763,5 +763,10 @@ const proverbs = [
         yor: `Wọ́n ní kí olókùnrùn ṣe 'tó' ó lóun ò lè ṣe 'tó tò tó'.`,
         lit: `A sick man who was asked to merely say 'to', profusely insisted he cannot say 'to to to'.`, 
         eng: `Be efficient; don't waste effort rejecting what would have taken far less to accept.`
+     },
+     {
+        yor: `Ìhòhò dodo làgbàdo ńwọ ilẹ̀; tó bá jáde tán ló ńdi onígba aṣọ.`,
+        lit: `The maize seed does go into the soil absolutely naked; it ends up with multiple peelings only after sprouting.`, 
+        eng: `The best is yet to come; keep hope alive`
      }
 ];
