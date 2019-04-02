@@ -768,5 +768,10 @@ const proverbs = [
         yor: `Ìhòhò dodo làgbàdo ńwọ ilẹ̀; tó bá jáde tán ló ńdi onígba aṣọ.`,
         lit: `The maize seed does go into the soil absolutely naked; it ends up with multiple peelings only after sprouting.`, 
         eng: `The best is yet to come; keep hope alive`
+     },
+     {
+        yor: `A kì í bérè lọ́wọ́ adélébọ̀ pé ní'bo ló ti rí oyún.`,
+        lit: `No one asks a married woman where she has got her pregnancy.`, 
+        eng: `Don't ask obvious questions.`
      }
 ];
