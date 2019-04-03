@@ -773,5 +773,10 @@ const proverbs = [
         yor: `A kì í bérè lọ́wọ́ adélébọ̀ pé ní'bo ló ti rí oyún.`,
         lit: `No one asks a married woman where she has got her pregnancy.`, 
         eng: `Don't ask obvious questions.`
+     },
+     {
+        yor: `Ilé tí a fi itọ́ mọ́, ìrì ni yóò wóo.`,
+        lit: `A house built with saliva will collapse under dew drops.`, 
+        eng: `Integrity is it; fruits of deceit seldom last.`
      }
 ];
