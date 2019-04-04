@@ -778,5 +778,10 @@ const proverbs = [
         yor: `Ilé tí a fi itọ́ mọ́, ìrì ni yóò wóo.`,
         lit: `A house built with saliva will collapse under dew drops.`, 
         eng: `Integrity is it; fruits of deceit seldom last.`
+     },
+     {
+        yor: `Bí èyàn bá dúró sí'nú oòrùn títí, bó pẹ́ bó yá, ibòji, á báa níbẹ̀.`,
+        lit: `If one tarries long in the sun without relenting, eventually, the shade will come (when the sun sets).`, 
+        eng: `Tough times won't last forever; persistence pays: if we won't quit, we will win, eventually.`
      }
 ];
