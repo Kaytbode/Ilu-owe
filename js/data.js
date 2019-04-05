@@ -783,5 +783,10 @@ const proverbs = [
         yor: `Bí èyàn bá dúró sí'nú oòrùn títí, bó pẹ́ bó yá, ibòji, á báa níbẹ̀.`,
         lit: `If one tarries long in the sun without relenting, eventually, the shade will come (when the sun sets).`, 
         eng: `Tough times won't last forever; persistence pays: if we won't quit, we will win, eventually.`
+     },
+     {
+        yor: `Àgbà ò sí ní ìdí ọ̀kẹ́rẹ́; ẹni tí yóò jẹ ẹran níláti ṣetán àti ṣe ọdẹ.`,
+        lit: `There should be no deferrence to seniority in sharing the squirrel's meat; whoever wants to partake must be prepared to hunt.`, 
+        eng: `Lead by example; we musn't abuse our positions.`
      }
 ];
