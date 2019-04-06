@@ -788,5 +788,10 @@ const proverbs = [
         yor: `Àgbà ò sí ní ìdí ọ̀kẹ́rẹ́; ẹni tí yóò jẹ ẹran níláti ṣetán àti ṣe ọdẹ.`,
         lit: `There should be no deferrence to seniority in sharing the squirrel's meat; whoever wants to partake must be prepared to hunt.`, 
         eng: `Lead by example; we musn't abuse our positions.`
+     },
+     {
+        yor: `Ẹni tó ńwá ẹni tó jẹ bàbá rẹ̀ lówó, àfàìmọ̀, kó má pàdé ẹni tí bàbá rẹ̀ jẹ lówó.`,
+        lit: `Whoever is looking for his father's debtors, may well find his father's creditors.`, 
+        eng: `Moderation is it; life can come with twists and turns.`
      }
 ];
