@@ -793,5 +793,10 @@ const proverbs = [
         yor: `Ẹni tó ńwá ẹni tó jẹ bàbá rẹ̀ lówó, àfàìmọ̀, kó má pàdé ẹni tí bàbá rẹ̀ jẹ lówó.`,
         lit: `Whoever is looking for his father's debtors, may well find his father's creditors.`, 
         eng: `Moderation is it; life can come with twists and turns.`
+     },
+     {
+        yor: `Ajá  kì í rorò títí, kó ṣọ́ ojú'lé méjì.`,
+        lit: `No matter how tough a dog is, it cannot watch over two separate houses.`, 
+        eng: `There is a limit to what any one person can do; cooperate and collaborate more.`
      }
 ];
