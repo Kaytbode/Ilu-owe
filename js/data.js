@@ -798,5 +798,10 @@ const proverbs = [
         yor: `Ajá  kì í rorò títí, kó ṣọ́ ojú'lé méjì.`,
         lit: `No matter how tough a dog is, it cannot watch over two separate houses.`, 
         eng: `There is a limit to what any one person can do; cooperate and collaborate more.`
+     },
+     {
+        yor: `Láníntán kan kò lè ni ìwo ẹṣin.`,
+        lit: `No one can be so wealthy as to own the horn of a horse (since horses have no horns).`, 
+        eng: `No one has it all made; we need one another.`
      }
 ];
