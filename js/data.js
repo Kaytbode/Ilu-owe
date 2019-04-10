@@ -803,5 +803,10 @@ const proverbs = [
         yor: `Láníntán kan kò lè ni ìwo ẹṣin.`,
         lit: `No one can be so wealthy as to own the horn of a horse (since horses have no horns).`, 
         eng: `No one has it all made; we need one another.`
+     },
+     {
+        yor: `Ọmọ tó gé ìyá a rẹ̀ lẹ́hìn jẹ, ṣòro ó gbà pọ̀n.`,
+        lit: `It's tough offering to back a child who bit his mother's back when backed by her.`, 
+        eng: `Be perceptive; don't expect anyone to treat you better than they are treating those close to them.`
      }
 ];
