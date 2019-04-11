@@ -808,5 +808,10 @@ const proverbs = [
         yor: `Ọmọ tó gé ìyá a rẹ̀ lẹ́hìn jẹ, ṣòro ó gbà pọ̀n.`,
         lit: `It's tough offering to back a child who bit his mother's back when backed by her.`, 
         eng: `Be perceptive; don't expect anyone to treat you better than they are treating those close to them.`
+     },
+     {
+        yor: `A kì í s'òótọ́ inú, kí ọ̀rọ̀ ẹni má d'ayọ̀, báyé ẹni bá dojúrú ìwà èèyàn ló yẹ ká wò.`,
+        lit: `An honest life cannot but end well; if a life remains unpleasant, the person's character needs to be examined.`, 
+        eng: `Our character quite often determines our experience; we reap what we sow.`
      }
 ];
