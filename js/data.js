@@ -813,5 +813,10 @@ const proverbs = [
         yor: `A kì í s'òótọ́ inú, kí ọ̀rọ̀ ẹni má d'ayọ̀, báyé ẹni bá dojúrú ìwà èèyàn ló yẹ ká wò.`,
         lit: `An honest life cannot but end well; if a life remains unpleasant, the person's character needs to be examined.`, 
         eng: `Our character quite often determines our experience; we reap what we sow.`
+     },
+     {
+        yor: `Wúrà tó máa dán, á la iná kọjá.`,
+        lit: `A piece of gold that wants to shine must need pass through fire.`, 
+        eng: `No pain, no gain; there's always a price tag.`
      }
 ];
