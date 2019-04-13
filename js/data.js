@@ -818,5 +818,10 @@ const proverbs = [
         yor: `Wúrà tó máa dán, á la iná kọjá.`,
         lit: `A piece of gold that wants to shine must need pass through fire.`, 
         eng: `No pain, no gain; there's always a price tag.`
+     },
+     {
+        yor: `Ọgbọ́n díẹ̀, òmùgọ̀ díẹ̀, l'ọba fi ńto ìlú.`,
+        lit: `Applying a little wisdom and a little stupidity is how a king administers his kingdom.`, 
+        eng: `Sometimes, you have to act like a monkey to catch one; quite often, what appeared stupid may be a reflection of depths of wisdom.`
      }
 ];
