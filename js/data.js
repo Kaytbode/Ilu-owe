@@ -823,5 +823,10 @@ const proverbs = [
         yor: `Ọgbọ́n díẹ̀, òmùgọ̀ díẹ̀, l'ọba fi ńto ìlú.`,
         lit: `Applying a little wisdom and a little stupidity is how a king administers his kingdom.`, 
         eng: `Sometimes, you have to act like a monkey to catch one; quite often, what appeared stupid may be a reflection of depths of wisdom.`
+     },
+     {
+        yor: `Kì í ṣe gbogbo ajá tó bá gbó'ni lọ́jà, la ńdá lóhùn.`,
+        lit: `It's not all the dogs that bark at one at the marketplace that one responds to.`, 
+        eng: `Be focused; ignore distractions; it's not all issues that should command one's attention.`
      }
 ];
