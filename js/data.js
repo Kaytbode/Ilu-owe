@@ -828,5 +828,10 @@ const proverbs = [
         yor: `Kì í ṣe gbogbo ajá tó bá gbó'ni lọ́jà, la ńdá lóhùn.`,
         lit: `It's not all the dogs that bark at one at the marketplace that one responds to.`, 
         eng: `Be focused; ignore distractions; it's not all issues that should command one's attention.`
+     },
+     {
+        yor: `Orí bíbẹ́, kọ́ ni oògùn orí fífọ́.`,
+        lit: `Decapitation is not the antidote for headache.`, 
+        eng: `Moderation is it; adopt radical measures with caution.`
      }
 ];
