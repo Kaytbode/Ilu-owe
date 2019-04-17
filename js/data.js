@@ -833,5 +833,10 @@ const proverbs = [
         yor: `Orí bíbẹ́, kọ́ ni oògùn orí fífọ́.`,
         lit: `Decapitation is not the antidote for headache.`, 
         eng: `Moderation is it; adopt radical measures with caution.`
+     },
+     {
+        yor: `Ará oko tí yóò jẹ búrẹ́dì, á fi èsúrú ránṣẹ́ sílé.`,
+        lit: `A farm dweller who would like to eat bread (from those at home), would do well to send some aerial yams (from the farm to those at) home.`, 
+        eng: `We easily receive when we are committed to giving: givers seldom lack.`
      }
 ];
