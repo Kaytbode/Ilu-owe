@@ -838,5 +838,10 @@ const proverbs = [
         yor: `Ará oko tí yóò jẹ búrẹ́dì, á fi èsúrú ránṣẹ́ sílé.`,
         lit: `A farm dweller who would like to eat bread (from those at home), would do well to send some aerial yams (from the farm to those at) home.`, 
         eng: `We easily receive when we are committed to giving: givers seldom lack.`
+     },
+     {
+        yor: `Àìnísùúrù ìnàkí, ló sọọ́ di ará inú igbó.`,
+        lit: `Gorilla's impatience was what made it an inhabitant of the forest.`, 
+        eng: `Be patient; impatience can exact a heavy price.`
      }
 ];
