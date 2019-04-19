@@ -843,5 +843,10 @@ const proverbs = [
         yor: `Àìnísùúrù ìnàkí, ló sọọ́ di ará inú igbó.`,
         lit: `Gorilla's impatience was what made it an inhabitant of the forest.`, 
         eng: `Be patient; impatience can exact a heavy price.`
+     },
+     {
+        yor: `Rírò ni tènìyàn, ṣíṣe ni t'Olúwa.`,
+        lit: `Man proposes, God disposes.`, 
+        eng: `No one knows tomorrow; keep hope alive.`
      }
 ];
