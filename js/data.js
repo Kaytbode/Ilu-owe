@@ -848,5 +848,10 @@ const proverbs = [
         yor: `Rírò ni tènìyàn, ṣíṣe ni t'Olúwa.`,
         lit: `Man proposes, God disposes.`, 
         eng: `No one knows tomorrow; keep hope alive.`
+     },
+     {
+        yor: `Tí agbada ò bá gbóná, àgbàdo ò lè ta.`,
+        lit: `If the frying pan is not heated up, the corns cannot pop.`, 
+        eng: `No pain, no gain; there is always a price tag.`
      }
 ];
