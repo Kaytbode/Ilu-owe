@@ -853,5 +853,10 @@ const proverbs = [
         yor: `Tí agbada ò bá gbóná, àgbàdo ò lè ta.`,
         lit: `If the frying pan is not heated up, the corns cannot pop.`, 
         eng: `No pain, no gain; there is always a price tag.`
+     },
+     {
+        yor: `Òròmọadìyẹ ńbá àṣà ṣeré, ó rò pé ẹyẹ oko lásán ni.`,
+        lit: `The chick plays with the hawk, gullibly believing it to be an ordinary bird.`, 
+        eng: `Naivety can be costly; correctly assess risks; don't be presumptuous.`
      }
 ];
