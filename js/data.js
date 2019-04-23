@@ -858,5 +858,10 @@ const proverbs = [
         yor: `Òròmọadìyẹ ńbá àṣà ṣeré, ó rò pé ẹyẹ oko lásán ni.`,
         lit: `The chick plays with the hawk, gullibly believing it to be an ordinary bird.`, 
         eng: `Naivety can be costly; correctly assess risks; don't be presumptuous.`
+     },
+     {
+        yor: `Ikú ẹja ni í mú ẹja mọ ìlú.`,
+        lit: `The death of the fish is what enables it to know the city.`, 
+        eng: `Adversity is, quite often, a stepping stone to greater heights; be positive, always; it's not over yet.`
      }
 ];
