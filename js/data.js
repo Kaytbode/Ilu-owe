@@ -863,5 +863,10 @@ const proverbs = [
         yor: `Ikú ẹja ni í mú ẹja mọ ìlú.`,
         lit: `The death of the fish is what enables it to know the city.`, 
         eng: `Adversity is, quite often, a stepping stone to greater heights; be positive, always; it's not over yet.`
+     },
+     {
+        yor: `Eré tí ọ̀pọ̀lọ́ ńsá nínú omi gbígbóná, tó bá sáa lọ́dàn ni, kò ní wọ omi gbígbóná.`,
+        lit: `Had the frog been as fleet-footed in the fields as it is now inside hot water, it won't have found itself in the hot water.`, 
+        eng: `A stitch in time saves so much later; address issues promptly.`
      }
 ];
