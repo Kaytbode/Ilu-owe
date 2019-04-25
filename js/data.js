@@ -868,5 +868,10 @@ const proverbs = [
         yor: `Eré tí ọ̀pọ̀lọ́ ńsá nínú omi gbígbóná, tó bá sáa lọ́dàn ni, kò ní wọ omi gbígbóná.`,
         lit: `Had the frog been as fleet-footed in the fields as it is now inside hot water, it won't have found itself in the hot water.`, 
         eng: `A stitch in time saves so much later; address issues promptly.`
+     },
+     {
+        yor: `Àrẹ̀mọ má jobì, má ròde ẹmu, kó lè dé ipò bàbá rẹ̀ ni.`,
+        lit: `That the royal heir should desist from rioutous living, it's so he can succeed his father (the king).`, 
+        eng: `Be open and humble to take to good counsel.`
      }
 ];
