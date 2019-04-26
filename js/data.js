@@ -873,5 +873,10 @@ const proverbs = [
         yor: `Àrẹ̀mọ má jobì, má ròde ẹmu, kó lè dé ipò bàbá rẹ̀ ni.`,
         lit: `That the royal heir should desist from rioutous living, it's so he can succeed his father (the king).`, 
         eng: `Be open and humble to take to good counsel.`
+     },
+     {
+        yor: `Ní tútù là ńká ẹja kò; ẹja gbígbẹ ò ṣeé ká.`,
+        lit: `Fish may be bent (and formed into shapes) only while fresh; dried fish cannot be bent. `, 
+        eng: `Promptly resolve issues while still simple; once complicated, issues can be tough to resolve.`
      }
 ];
