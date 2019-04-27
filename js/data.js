@@ -878,5 +878,10 @@ const proverbs = [
         yor: `Ní tútù là ńká ẹja kò; ẹja gbígbẹ ò ṣeé ká.`,
         lit: `Fish may be bent (and formed into shapes) only while fresh; dried fish cannot be bent. `, 
         eng: `Promptly resolve issues while still simple; once complicated, issues can be tough to resolve.`
+     },
+     {
+        yor: `Oore kéré, oore tóbi, oore loore yóò máa jẹ́.`,
+        lit: `Whether small or big, kindness received deserves to be recognised as such.`, 
+        eng: `Attitude of gratitude is it; never discount favours received.`
      }
 ];
