@@ -883,5 +883,10 @@ const proverbs = [
         yor: `Oore kéré, oore tóbi, oore loore yóò máa jẹ́.`,
         lit: `Whether small or big, kindness received deserves to be recognised as such.`, 
         eng: `Attitude of gratitude is it; never discount favours received.`
+     },
+     {
+        yor: `Àgbàdo tí kò bá fẹ́ fi ara gba iná, àti di gúgúrú rẹ̀, á nira.`,
+        lit: `Grains of corn that do not want to be exposed to heat would find their becoming pop corns difficult.`, 
+        eng: `No pain, no gain; be willing to pay the price.`
      }
 ];
