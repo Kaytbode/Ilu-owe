@@ -888,5 +888,10 @@ const proverbs = [
         yor: `Àgbàdo tí kò bá fẹ́ fi ara gba iná, àti di gúgúrú rẹ̀, á nira.`,
         lit: `Grains of corn that do not want to be exposed to heat would find their becoming pop corns difficult.`, 
         eng: `No pain, no gain; be willing to pay the price.`
+     },
+     {
+        yor: `Ohun ọwọ́ mi ò tó, màá fi gọ̀ǹgọ̀ fàá, àbùkù ni í mú kan'ni.`,
+        lit: `To inordinately quest after what is evidently beyond one's reach is to court shame.`, 
+        eng: `Contentment is it; live within your means; be wary of greed.`
      }
 ];
