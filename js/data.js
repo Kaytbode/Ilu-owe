@@ -893,5 +893,10 @@ const proverbs = [
         yor: `Ohun ọwọ́ mi ò tó, màá fi gọ̀ǹgọ̀ fàá, àbùkù ni í mú kan'ni.`,
         lit: `To inordinately quest after what is evidently beyond one's reach is to court shame.`, 
         eng: `Contentment is it; live within your means; be wary of greed.`
+     },
+     {
+        yor: `Tí orí kan bá sunwọ̀n, á ran igba.`,
+        lit: `If one head is blessed, it positively impacts two hundred others.`, 
+        eng: `Success can be contagious.`
      }
 ];
