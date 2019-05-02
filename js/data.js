@@ -898,5 +898,10 @@ const proverbs = [
         yor: `Tí orí kan bá sunwọ̀n, á ran igba.`,
         lit: `If one head is blessed, it positively impacts two hundred others.`, 
         eng: `Success can be contagious.`
+     },
+     {
+        yor: `Ẹni a fẹ́ la mọ̀, a ò mọ ẹni tó fẹ́'ni.`,
+        lit: `You can only be certain of who you love, but you cannot tell who really loves you.`, 
+        eng: `Be perceptive.`
      }
 ];
