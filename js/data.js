@@ -903,5 +903,10 @@ const proverbs = [
         yor: `Ẹni a fẹ́ la mọ̀, a ò mọ ẹni tó fẹ́'ni.`,
         lit: `You can only be certain of who you love, but you cannot tell who really loves you.`, 
         eng: `Be perceptive.`
+     },
+     {
+        yor: `Gbogbo ẹkún kọ́ làpẹrẹ ìbànújẹ́; gbogbo ẹ̀rín sì kọ́ ló túmọ̀ sí ìdùnnú.`,
+        lit: `Not all tears signify sadness; not all laughters imply happiness.`, 
+        eng: `Appearance can be deceptive; look beyond the obvious.`
      }
 ];
