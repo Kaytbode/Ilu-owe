@@ -908,5 +908,10 @@ const proverbs = [
         yor: `Gbogbo ẹkún kọ́ làpẹrẹ ìbànújẹ́; gbogbo ẹ̀rín sì kọ́ ló túmọ̀ sí ìdùnnú.`,
         lit: `Not all tears signify sadness; not all laughters imply happiness.`, 
         eng: `Appearance can be deceptive; look beyond the obvious.`
+     },
+     {
+        yor: `Bí ọmọdé bá fẹ́ ṣe bí àgbà, ọjọ́ orí i rẹ̀ ò ní jẹ́.`,
+        lit: `A youngster who wants to act matured, is quite often betrayed by his or her age (or narrow life experience).`, 
+        eng: `Inexperience often distorts youngsters' views of what count as maturity; modesty to learn is crucial.`
      }
 ];
