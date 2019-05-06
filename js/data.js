@@ -913,5 +913,10 @@ const proverbs = [
         yor: `Bí ọmọdé bá fẹ́ ṣe bí àgbà, ọjọ́ orí i rẹ̀ ò ní jẹ́.`,
         lit: `A youngster who wants to act matured, is quite often betrayed by his or her age (or narrow life experience).`, 
         eng: `Inexperience often distorts youngsters' views of what count as maturity; modesty to learn is crucial.`
+     },
+     {
+        yor: `Gbólóhùn kan lè ba ọ̀rọ̀ jẹ́, gbólóhùn kan náà lè tún ọ̀rọ̀ ṣe.`,
+        lit: `One sentence can mess up a discussion, and one sentence can make it better.`, 
+        eng: `Words are powerful; use them with care.`
      }
 ];
