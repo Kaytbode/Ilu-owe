@@ -918,5 +918,10 @@ const proverbs = [
         yor: `Gbólóhùn kan lè ba ọ̀rọ̀ jẹ́, gbólóhùn kan náà lè tún ọ̀rọ̀ ṣe.`,
         lit: `One sentence can mess up a discussion, and one sentence can make it better.`, 
         eng: `Words are powerful; use them with care.`
+     },
+     {
+        yor: `Olójú kan kì í mọ'yì Ọlọ́run, à fi tí nǹkan bá gbọ̀n sí i.`,
+        lit: `A person with a single good eye is seldom thankful to God, until a speck enters the eye.`, 
+        eng: `Attitude of gratitude is it; in every situation, remain grateful.`
      }
 ];
