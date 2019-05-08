@@ -923,5 +923,10 @@ const proverbs = [
         yor: `Olójú kan kì í mọ'yì Ọlọ́run, à fi tí nǹkan bá gbọ̀n sí i.`,
         lit: `A person with a single good eye is seldom thankful to God, until a speck enters the eye.`, 
         eng: `Attitude of gratitude is it; in every situation, remain grateful.`
+     },
+     {
+        yor: `Mo ṣe é tán ló níyì; a kì í dúpẹ́ aláṣekù.`,
+        lit: `I've finished it, is what is honorable; no one gives thanks for an incomplete job.`, 
+        eng: `Finish whatever you start; it's good to start a thing, but better to complete it.`
      }
 ];
