@@ -928,5 +928,10 @@ const proverbs = [
         yor: `Mo ṣe é tán ló níyì; a kì í dúpẹ́ aláṣekù.`,
         lit: `I've finished it, is what is honorable; no one gives thanks for an incomplete job.`, 
         eng: `Finish whatever you start; it's good to start a thing, but better to complete it.`
+     },
+     {
+        yor: `Mọ̀kàn mọ̀kàn loyè ńkàn; oyè tó kan ará Ìwó, ó ńbọ̀ wá kan ará Ẹdẹ.`,
+        lit: `Chieftancy titles are given turn by turn; the chieftancy title given to an Iwo indigene would soon be given to someone from Ede.`, 
+        eng: `Life is in phases; be patient.`
      }
 ];
