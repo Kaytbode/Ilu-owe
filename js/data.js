@@ -933,5 +933,10 @@ const proverbs = [
         yor: `Mọ̀kàn mọ̀kàn loyè ńkàn; oyè tó kan ará Ìwó, ó ńbọ̀ wá kan ará Ẹdẹ.`,
         lit: `Chieftancy titles are given turn by turn; the chieftancy title given to an Iwo indigene would soon be given to someone from Ede.`, 
         eng: `Life is in phases; be patient.`
+     },
+     {
+        yor: `Ọmọ tí ẹnu ò bá ká, aṣọ kànkan ò lè ka.`,
+        lit: `No amount of cloth will be sufficient for a child who spurns good counsel.`, 
+        eng: `Disobedience and wastefulness go arm in arm; whoever is disobedient will be wasteful.`
      }
 ];
