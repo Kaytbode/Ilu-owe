@@ -938,5 +938,10 @@ const proverbs = [
         yor: `Ọmọ tí ẹnu ò bá ká, aṣọ kànkan ò lè ka.`,
         lit: `No amount of cloth will be sufficient for a child who spurns good counsel.`, 
         eng: `Disobedience and wastefulness go arm in arm; whoever is disobedient will be wasteful.`
+     },
+     {
+        yor: `A kì í fura sí ẹni tí a ńbá rìn; ẹni tí a bá ńfura sí, a kì í bá irú wọn rìn.`,
+        lit: `Do not be suspicious of those you associate with; those you'd be suspicious of, should not be your close associates.`, 
+        eng: `Build trust; don't be paranoid; be positive; be forward-looking.`
      }
 ];
