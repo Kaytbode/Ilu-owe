@@ -943,5 +943,10 @@ const proverbs = [
         yor: `A kì í fura sí ẹni tí a ńbá rìn; ẹni tí a bá ńfura sí, a kì í bá irú wọn rìn.`,
         lit: `Do not be suspicious of those you associate with; those you'd be suspicious of, should not be your close associates.`, 
         eng: `Build trust; don't be paranoid; be positive; be forward-looking.`
+     },
+     {
+        yor: `Ìbẹ̀rẹ̀ ogun là ńmọ̀; ẹni kan kì í mọ ìparí í rẹ̀.`,
+        lit: `The beginning of war is what anyone knows; no one knows how it will end.`, 
+        eng: `Always seek peace; no one ever knows the full ramifications of a quarrel at the beginning.`
      }
 ];
