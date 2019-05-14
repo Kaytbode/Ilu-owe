@@ -948,5 +948,10 @@ const proverbs = [
         yor: `Ìbẹ̀rẹ̀ ogun là ńmọ̀; ẹni kan kì í mọ ìparí í rẹ̀.`,
         lit: `The beginning of war is what anyone knows; no one knows how it will end.`, 
         eng: `Always seek peace; no one ever knows the full ramifications of a quarrel at the beginning.`
+     },
+     {
+        yor: `Ọmọ tó bá mọ ọwọ́ ọ́ wẹ̀, yóò bá àgbà jẹun.`,
+        lit: `A child who knows how to wash his or her hands will get to eat with the elders.`, 
+        eng: `A well-behaved person will enjoy uncommon privileges; civility and courtesy do open doors.`
      }
 ];
