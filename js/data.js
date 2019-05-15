@@ -953,5 +953,10 @@ const proverbs = [
         yor: `Ọmọ tó bá mọ ọwọ́ ọ́ wẹ̀, yóò bá àgbà jẹun.`,
         lit: `A child who knows how to wash his or her hands will get to eat with the elders.`, 
         eng: `A well-behaved person will enjoy uncommon privileges; civility and courtesy do open doors.`
+     },
+     {
+        yor: `Ewúrẹ́ tó lè kígbe jù, kọ́ lebi ńpa jù.`,
+        lit: `The goat that bleats the loudest, is not necessarily the most famished.`, 
+        eng: `Appearance isn't necessarily reality; noise or drama isn't necessarily substance.`
      }
 ];
