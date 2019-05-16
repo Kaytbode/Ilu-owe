@@ -958,5 +958,10 @@ const proverbs = [
         yor: `Ewúrẹ́ tó lè kígbe jù, kọ́ lebi ńpa jù.`,
         lit: `The goat that bleats the loudest, is not necessarily the most famished.`, 
         eng: `Appearance isn't necessarily reality; noise or drama isn't necessarily substance.`
+     },
+     {
+        yor: `Adìyẹ ńjẹ yangan, ó ńmu omi ó ńgbé ókúta mì, ó tún ńsunkún àìléyín; ṣé òbúkọ tó léyín ńjẹ irin ni?`,
+        lit: `Hens eat corns, drink water and swallow stones, yet lament lacking teeth; do goats chew pieces of iron with theirs?`, 
+        eng: `Contentment is it; shun greed.`
      }
 ];
