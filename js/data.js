@@ -963,5 +963,10 @@ const proverbs = [
         yor: `Adìyẹ ńjẹ yangan, ó ńmu omi ó ńgbé ókúta mì, ó tún ńsunkún àìléyín; ṣé òbúkọ tó léyín ńjẹ irin ni?`,
         lit: `Hens eat corns, drink water and swallow stones, yet lament lacking teeth; do goats chew pieces of iron with theirs?`, 
         eng: `Contentment is it; shun greed.`
+     },
+     {
+        yor: `Ẹni a ṣe lóore tí kò dúpẹ́, bí ìgbà tí ọlọ́ṣa ko ni lẹ́rù lọ ni.`,
+        lit: `To be kind to a person who isn't thankful is akin to being robbed by a thief.`, 
+        eng: `Attitude of gratitude is it.`
      }
 ];
