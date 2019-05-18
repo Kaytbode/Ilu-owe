@@ -968,5 +968,10 @@ const proverbs = [
         yor: `Ẹni a ṣe lóore tí kò dúpẹ́, bí ìgbà tí ọlọ́ṣa ko ni lẹ́rù lọ ni.`,
         lit: `To be kind to a person who isn't thankful is akin to being robbed by a thief.`, 
         eng: `Attitude of gratitude is it.`
+     },
+     {
+        yor: `Ogbe orí àkùkọ, kì í ṣe mímọ̀ ọ́n ṣe àkùkọ; Elédùà ló dá àkùkọ lọ́lá.`,
+        lit: `The comb on the cock is not by dint of its prowess; it is the blessing of God.`, 
+        eng: `Be modest and thankful; our blessing is, quite often, way more than the results of our effort.`
      }
 ];
