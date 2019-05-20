@@ -973,5 +973,10 @@ const proverbs = [
         yor: `Ogbe orí àkùkọ, kì í ṣe mímọ̀ ọ́n ṣe àkùkọ; Elédùà ló dá àkùkọ lọ́lá.`,
         lit: `The comb on the cock is not by dint of its prowess; it is the blessing of God.`, 
         eng: `Be modest and thankful; our blessing is, quite often, way more than the results of our effort.`
+     },
+     {
+        yor: `Ẹni tó mọ iyì obì ló ńjá ewé bòó.`,
+        lit: `The person who appreciates kolanuts strives to protect them with a covering of leaves.`, 
+        eng: `We keenly care for what we value; whatever is valued seldom suffer neglect.`
      }
 ];
