@@ -978,5 +978,10 @@ const proverbs = [
         yor: `Ẹni tó mọ iyì obì ló ńjá ewé bòó.`,
         lit: `The person who appreciates kolanuts strives to protect them with a covering of leaves.`, 
         eng: `We keenly care for what we value; whatever is valued seldom suffer neglect.`
+     },
+     {
+        yor: `Ààtàn tí kò bá gba ẹ̀gbin, kò ní kún bọ̀rọ̀.`,
+        lit: `A refuse dump that's intolerant of filth won't be filled up easily.`, 
+        eng: `Be tolerant; intolerance can impose limitations.`
      }
 ];
