@@ -983,5 +983,10 @@ const proverbs = [
         yor: `Ààtàn tí kò bá gba ẹ̀gbin, kò ní kún bọ̀rọ̀.`,
         lit: `A refuse dump that's intolerant of filth won't be filled up easily.`, 
         eng: `Be tolerant; intolerance can impose limitations.`
+     },
+     {
+        yor: `Oókan ni wọ́n ńta ẹṣin lọ́run, ó ku ẹni ti yóò lọ rà á.`,
+        lit: `Horses sell for one kobo each in heaven, but who's prepared to go buy it?`, 
+        eng: `Benefits should be matched against associated risks; any benefit that comes with intolerably high risks easily loses it’s appeal.`
      }
 ];
