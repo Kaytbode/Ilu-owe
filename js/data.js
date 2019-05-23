@@ -988,5 +988,10 @@ const proverbs = [
         yor: `Oókan ni wọ́n ńta ẹṣin lọ́run, ó ku ẹni ti yóò lọ rà á.`,
         lit: `Horses sell for one kobo each in heaven, but who's prepared to go buy it?`, 
         eng: `Benefits should be matched against associated risks; any benefit that comes with intolerably high risks easily loses it’s appeal.`
+     },
+     {
+        yor: `Àt'oore àt'ìkà, ìkan kì í gbé.`,
+        lit: `Neither acts of kindness nor those of wickedness shall be lost.`, 
+        eng: `We reap whatever we sow.`
      }
 ];
