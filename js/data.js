@@ -993,5 +993,10 @@ const proverbs = [
         yor: `Àt'oore àt'ìkà, ìkan kì í gbé.`,
         lit: `Neither acts of kindness nor those of wickedness shall be lost.`, 
         eng: `We reap whatever we sow.`
+     },
+     {
+        yor: `Ohun tí ajá rí tó ńgbó, kò tó èyí tí ágùntàn fi ńṣe ìran wò.`,
+        lit: `What makes the dog barks is nothing to what the sheep ignores.`, 
+        eng: `Different strokes for different folks; what is an issue to someone may well be of no consequence to another.`
      }
 ];
