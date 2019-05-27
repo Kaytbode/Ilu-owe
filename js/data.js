@@ -998,5 +998,10 @@ const proverbs = [
         yor: `Ohun tí ajá rí tó ńgbó, kò tó èyí tí ágùntàn fi ńṣe ìran wò.`,
         lit: `What makes the dog barks is nothing to what the sheep ignores.`, 
         eng: `Different strokes for different folks; what is an issue to someone may well be of no consequence to another.`
+     },
+     {
+        yor: `Ọlọ́run tó dá ẹnu, ti dá ohun tí kálukú máa fi síi.`,
+        lit: `God who created the mouth had also created what we would all be putting into it.`, 
+        eng: `Worry less; keep hope alive; there is no mistake with God.`
      }
 ];
