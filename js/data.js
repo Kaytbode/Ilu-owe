@@ -1003,5 +1003,10 @@ const proverbs = [
         yor: `Ọlọ́run tó dá ẹnu, ti dá ohun tí kálukú máa fi síi.`,
         lit: `God who created the mouth had also created what we would all be putting into it.`, 
         eng: `Worry less; keep hope alive; there is no mistake with God.`
+     },
+     {
+        yor: `Tí ẹyẹ kò bá fín ẹyẹ níràn, ojú ọ̀run tó ẹyẹ ẹ́ fò láì fara kanra.`,
+        lit: `If a bird won't seek the ill of another, the sky is wide enough for all to fly without colliding.`, 
+        eng: `There is no need to pull anyone down in order to rise; the world is endowed enough for all.`
      }
 ];
