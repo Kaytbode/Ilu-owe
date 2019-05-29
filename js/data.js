@@ -1008,5 +1008,10 @@ const proverbs = [
         yor: `Tí ẹyẹ kò bá fín ẹyẹ níràn, ojú ọ̀run tó ẹyẹ ẹ́ fò láì fara kanra.`,
         lit: `If a bird won't seek the ill of another, the sky is wide enough for all to fly without colliding.`, 
         eng: `There is no need to pull anyone down in order to rise; the world is endowed enough for all.`
+     },
+     {
+        yor: `Ẹyẹ igbó kì í mọ fífò ọ̀dàn.`,
+        lit: `Forest birds seldom know how to fly on grasslands.`, 
+        eng: `No one knows it all; an expert in one area is often a novice in another.`
      }
 ];
