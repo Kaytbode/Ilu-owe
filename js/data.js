@@ -1013,5 +1013,10 @@ const proverbs = [
         yor: `Ẹyẹ igbó kì í mọ fífò ọ̀dàn.`,
         lit: `Forest birds seldom know how to fly on grasslands.`, 
         eng: `No one knows it all; an expert in one area is often a novice in another.`
+     },
+     {
+        yor: `A kì í dàgbà jù fún ohun tí a kò bá mọ̀.`,
+        lit: `One is never too old to learn what one does not know.`, 
+        eng: `Willingness to learn is it; there is no end to learning.`
      }
 ];
