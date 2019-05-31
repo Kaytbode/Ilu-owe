@@ -1018,5 +1018,10 @@ const proverbs = [
         yor: `A kì í dàgbà jù fún ohun tí a kò bá mọ̀.`,
         lit: `One is never too old to learn what one does not know.`, 
         eng: `Willingness to learn is it; there is no end to learning.`
+     },
+     {
+        yor: `Kíkéré l'abẹ́rẹ́ kéré, kì í ṣe mímì fún adìyẹ.`,
+        lit: `Though a needle may be tiny, it is not to be swallowed by the hen.`, 
+        eng: `Underestimate no one; judge nothing by its appearance.`
      }
 ];
