@@ -1023,5 +1023,10 @@ const proverbs = [
         yor: `Kíkéré l'abẹ́rẹ́ kéré, kì í ṣe mímì fún adìyẹ.`,
         lit: `Though a needle may be tiny, it is not to be swallowed by the hen.`, 
         eng: `Underestimate no one; judge nothing by its appearance.`
+     },
+     {
+        yor: `Bí agbọ́n ṣe lóró tó, oúnjẹ ni fún aláǹgbá.`,
+        lit: `Despite how venomous the wasp is, it is food for the lizard.`, 
+        eng: `What someone considers a risk is what another embraces as an opportunity.`
      }
 ];
