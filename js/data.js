@@ -1028,5 +1028,10 @@ const proverbs = [
         yor: `Bí agbọ́n ṣe lóró tó, oúnjẹ ni fún aláǹgbá.`,
         lit: `Despite how venomous the wasp is, it is food for the lizard.`, 
         eng: `What someone considers a risk is what another embraces as an opportunity.`
+     },
+     {
+        yor: `Èyí ó wù á wí, t'Olúwa làṣẹ.`,
+        lit: `We may say what we please, it's God's will that will get done.`, 
+        eng: `Man proposes, God disposes.`
      }
 ];
