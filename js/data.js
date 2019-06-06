@@ -1033,5 +1033,10 @@ const proverbs = [
         yor: `Èyí ó wù á wí, t'Olúwa làṣẹ.`,
         lit: `We may say what we please, it's God's will that will get done.`, 
         eng: `Man proposes, God disposes.`
+     },
+     {
+        yor: `Ẹni tó ńsáré tó ńwo ẹ̀hìn, ó di dandan, kó fẹsẹ̀ kọ.`,
+        lit: `Whoever keeps looking back while running, will certainly stumble.`, 
+        eng: `Ignore distractions; stay focused.`
      }
 ];
