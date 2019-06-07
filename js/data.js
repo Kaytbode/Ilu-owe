@@ -1038,5 +1038,10 @@ const proverbs = [
         yor: `Ẹni tó ńsáré tó ńwo ẹ̀hìn, ó di dandan, kó fẹsẹ̀ kọ.`,
         lit: `Whoever keeps looking back while running, will certainly stumble.`, 
         eng: `Ignore distractions; stay focused.`
+     },
+     {
+        yor: `Pẹ́pẹ́yẹ ńlérí lásán ni, kò ní kọ.`,
+        lit: `The duck is simply being pretentious; it won't crow.`, 
+        eng: `Be undaunted; most things we worry about never happen.`
      }
 ];
