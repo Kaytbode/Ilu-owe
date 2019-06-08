@@ -1043,5 +1043,10 @@ const proverbs = [
         yor: `Pẹ́pẹ́yẹ ńlérí lásán ni, kò ní kọ.`,
         lit: `The duck is simply being pretentious; it won't crow.`, 
         eng: `Be undaunted; most things we worry about never happen.`
+     },
+     {
+        yor: `Àgbàdo inú ìgò, ó di àwòmọ́jú fún adìyẹ.`,
+        lit: `The corns in a bottle are viewed with disdain by the hen.`, 
+        eng: `We tend to belittle what we can't have.`
      }
 ];
