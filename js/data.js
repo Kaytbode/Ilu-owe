@@ -1048,5 +1048,10 @@ const proverbs = [
         yor: `Àgbàdo inú ìgò, ó di àwòmọ́jú fún adìyẹ.`,
         lit: `The corns in a bottle are viewed with disdain by the hen.`, 
         eng: `We tend to belittle what we can't have.`
+     },
+     {
+        yor: `Omi gbígbóná kì í pẹ́ lẹ́nu; nínú ká gbé e mu tàbí ká tu ú dànù, àá fọwọ́ mú'kan nínú u méjèjì.`,
+        lit: `Hot water cannot be long in the mouth; either it is swallowed or spat out, we have to chose one out of the two.`, 
+        eng: `[A stressful or difficult situation cannot be endured for long.`
      }
 ];
