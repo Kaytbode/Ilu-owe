@@ -1053,5 +1053,10 @@ const proverbs = [
         yor: `Omi gbígbóná kì í pẹ́ lẹ́nu; nínú ká gbé e mu tàbí ká tu ú dànù, àá fọwọ́ mú'kan nínú u méjèjì.`,
         lit: `Hot water cannot be long in the mouth; either it is swallowed or spat out, we have to chose one out of the two.`, 
         eng: `[A stressful or difficult situation cannot be endured for long.`
+     },
+     {
+        yor: `Adé orí ọ̀kín kò lè ṣe déédé orí ẹyẹkẹ́yẹ.`,
+        lit: `The crest on the head of the peacock simply won't fit any other bird.`, 
+        eng: `We are all differently endowed; be secure in who you are; envy no one.`
      }
 ];
