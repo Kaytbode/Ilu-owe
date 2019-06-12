@@ -1058,5 +1058,10 @@ const proverbs = [
         yor: `Adé orí ọ̀kín kò lè ṣe déédé orí ẹyẹkẹ́yẹ.`,
         lit: `The crest on the head of the peacock simply won't fit any other bird.`, 
         eng: `We are all differently endowed; be secure in who you are; envy no one.`
+     },
+     {
+        yor: `Ọyẹ́ ló ńkìlọ̀ fún onítòbí; ebi ló ńkìlọ̀ fún ọ̀lẹ.`,
+        lit: `Harmattan will ultimately reprove the wearer of the short under-skirt; hunger will ultimately reprove the indolent.`, 
+        eng: `The resulting negative consequence will ultimately reprove whoever is engaged in a vice.`
      }
 ];
