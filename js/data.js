@@ -1063,5 +1063,10 @@ const proverbs = [
         yor: `Ọyẹ́ ló ńkìlọ̀ fún onítòbí; ebi ló ńkìlọ̀ fún ọ̀lẹ.`,
         lit: `Harmattan will ultimately reprove the wearer of the short under-skirt; hunger will ultimately reprove the indolent.`, 
         eng: `The resulting negative consequence will ultimately reprove whoever is engaged in a vice.`
+     },
+     {
+        yor: `Àgbàlagbà tó so yangan mọ́ ìdí, ló sọ ara rẹ̀ di aláwàdà fún adìyẹ.`,
+        lit: `An elderly person, who tied maize to his pants, caused himself to be seen as an object of derision by the hen.`, 
+        eng: `Self-respect and self-discipline are crucial; our appearance dictates how we are received`
      }
 ];
