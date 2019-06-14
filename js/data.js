@@ -1068,5 +1068,10 @@ const proverbs = [
         yor: `Àgbàlagbà tó so yangan mọ́ ìdí, ló sọ ara rẹ̀ di aláwàdà fún adìyẹ.`,
         lit: `An elderly person, who tied maize to his pants, caused himself to be seen as an object of derision by the hen.`, 
         eng: `Self-respect and self-discipline are crucial; our appearance dictates how we are received`
-     }
+     },
+     {
+        yor: `Ìwà lẹ̀sìn; bí a bá ṣe mọ̀ ọ́ hù ni í ṣeé gbe’ni.`,
+        lit: `Character is like religion; how well our character is, that is how well it brings us favour.`, 
+        eng: `Good character attracts favour.`
+     },
 ];
