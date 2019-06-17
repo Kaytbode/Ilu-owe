@@ -1074,4 +1074,9 @@ const proverbs = [
         lit: `Character is like religion; how well our character is, that is how well it brings us favour.`, 
         eng: `Good character attracts favour.`
      },
+     {
+        yor: `Ẹni tí òjò ò pa, tí òrùn ò pa, ebi ni yóò paá.`,
+        lit: `Whoever is not beaten by rain and not beaten by the sun, will be beaten by hunger.`, 
+        eng: `Diligence pays; don't shy away from inconveniences.`
+     }
 ];
