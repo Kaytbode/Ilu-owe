@@ -1078,5 +1078,10 @@ const proverbs = [
         yor: `Ẹni tí òjò ò pa, tí òrùn ò pa, ebi ni yóò paá.`,
         lit: `Whoever is not beaten by rain and not beaten by the sun, will be beaten by hunger.`, 
         eng: `Diligence pays; don't shy away from inconveniences.`
+     },
+     {
+        yor: `Òkò tí a bá bínú jù, kì í pa ẹyẹ.`,
+        lit: `A stone thrown at a bird in anger hardly could kill the bird.`, 
+        eng: `Actions taken in anger seldom achieve desired results.`
      }
 ];
