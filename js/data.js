@@ -1083,5 +1083,10 @@ const proverbs = [
         yor: `Òkò tí a bá bínú jù, kì í pa ẹyẹ.`,
         lit: `A stone thrown at a bird in anger hardly could kill the bird.`, 
         eng: `Actions taken in anger seldom achieve desired results.`
+     },
+     {
+        yor: `Bó lé lógún ọdún táa ti fi adẹ́mun jọba, kò ní yé ọrùn ọ̀pẹ ẹ́ wò.`,
+        lit: `Even after twenty years of being enthroned a king, the palmwine tapper won't cease gazing at the palm tree with nostalgia.`, 
+        eng: `We are often reluctant to leave our comfort zones; yet, we must.`
      }
 ];
