@@ -1088,5 +1088,10 @@ const proverbs = [
         yor: `Bó lé lógún ọdún táa ti fi adẹ́mun jọba, kò ní yé ọrùn ọ̀pẹ ẹ́ wò.`,
         lit: `Even after twenty years of being enthroned a king, the palmwine tapper won't cease gazing at the palm tree with nostalgia.`, 
         eng: `We are often reluctant to leave our comfort zones; yet, we must.`
+     },
+     {
+        yor: `A kì í fi ọjọ́ kan, bọ́ ọmọ tó rù.`,
+        lit: `A lean child cannot be fattened in just one day.`, 
+        eng: `Be patient; good things take time;  don’t force issues before their time.`
      }
 ];
