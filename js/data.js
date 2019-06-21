@@ -1093,5 +1093,10 @@ const proverbs = [
         yor: `A kì í fi ọjọ́ kan, bọ́ ọmọ tó rù.`,
         lit: `A lean child cannot be fattened in just one day.`, 
         eng: `Be patient; good things take time;  don’t force issues before their time.`
+     },
+     {
+        yor: `Bí àgbẹ̀ ò bá gbin akèrègbè, kí ni aluṣẹ̀kẹ̀rẹ̀ fẹ́ rí lù?`,
+        lit: `Had the farmer not planted the gourd plant, what would the player of Sekere instrument (beaded gourd) play with?`, 
+        eng: `We are all interconnected and interdependent; collaborate more; no man or woman is an island.`
      }
 ];
