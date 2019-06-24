@@ -1098,5 +1098,10 @@ const proverbs = [
         yor: `Bí àgbẹ̀ ò bá gbin akèrègbè, kí ni aluṣẹ̀kẹ̀rẹ̀ fẹ́ rí lù?`,
         lit: `Had the farmer not planted the gourd plant, what would the player of Sekere instrument (beaded gourd) play with?`, 
         eng: `We are all interconnected and interdependent; collaborate more; no man or woman is an island.`
+     },
+     {
+        yor: `Bí ẹ̀mí bá wà, ìrètí ńbẹ.`,
+        lit: `As long as there is life, there is hope.`, 
+        eng: `Keep hope alive; with life, there is no impossibility.`
      }
 ];
