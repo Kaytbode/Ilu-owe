@@ -1103,5 +1103,10 @@ const proverbs = [
         yor: `Bí ẹ̀mí bá wà, ìrètí ńbẹ.`,
         lit: `As long as there is life, there is hope.`, 
         eng: `Keep hope alive; with life, there is no impossibility.`
+     },
+     {
+        yor: `Àìdúpẹ́ oore àná a máa mú oore sú'ni í ṣe.`,
+        lit: `Lack of gratitude for yesterday's kindness makes further acts of kindness tiresome.`, 
+        eng: `Attitude of gratitude is it; it encourages further acts of kindness.`
      }
-];
+    ]
