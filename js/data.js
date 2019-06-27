@@ -1108,5 +1108,10 @@ const proverbs = [
         yor: `Àìdúpẹ́ oore àná a máa mú oore sú'ni í ṣe.`,
         lit: `Lack of gratitude for yesterday's kindness makes further acts of kindness tiresome.`, 
         eng: `Attitude of gratitude is it; it encourages further acts of kindness.`
+     },
+     {
+        yor: `Omi tó tán lẹ́hìn ẹja ló sọọ́ di èrò ìṣasùn.`,
+        lit: `Absence of water's backing is what made the fish an item in a cooking pot.`, 
+        eng: `Good support matters; seek and cultivate it; one may be helpless, without it.`
      }
-    ]
+]
