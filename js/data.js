@@ -1113,5 +1113,10 @@ const proverbs = [
         yor: `Omi tó tán lẹ́hìn ẹja ló sọọ́ di èrò ìṣasùn.`,
         lit: `Absence of water's backing is what made the fish an item in a cooking pot.`, 
         eng: `Good support matters; seek and cultivate it; one may be helpless, without it.`
+     },
+     {
+        yor: `Àgùtàn ò ní sùn láàárín ajá, kó má fi ara kó eégbọn.`,
+        lit: `A sheep cannot lie in the midst of dogs and not get dog ticks on itself.`, 
+        eng: `We cannot but reflect the company we keep; show me your friends and I'll tell you who you are.`
      }
 ]
