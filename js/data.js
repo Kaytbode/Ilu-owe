@@ -1118,5 +1118,10 @@ const proverbs = [
         yor: `Àgùtàn ò ní sùn láàárín ajá, kó má fi ara kó eégbọn.`,
         lit: `A sheep cannot lie in the midst of dogs and not get dog ticks on itself.`, 
         eng: `We cannot but reflect the company we keep; show me your friends and I'll tell you who you are.`
+     },
+     {
+        yor: `Ẹni tó bá ní òun yóò fọ ìlú mọ́, òun ni ọmọ aráyé máa fi ṣe kànrìnkàn.`,
+        lit: `Whoever swore he would wash a town clean is the one the world will use as the sponge.`, 
+        eng: `Radical actions could be self-limitting.`
      }
 ]
