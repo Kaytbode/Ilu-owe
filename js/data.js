@@ -1128,5 +1128,10 @@ const proverbs = [
         yor: `Ọ̀gẹ̀dẹ̀ dúdú ò yá á bùṣán, ọmọ burúkú ò yá lùpa.`,
         lit: `As it is tough to take a bite of an unripe plantain, so it is tough to beat a stubborn child to death.`, 
         eng: `Complex situations can hardly be addressed with unduly radical actions.`
+     },
+     {
+        yor: `Ẹni tó láṣọ tí ò léèyàn, ìhòhò ló wà.`,
+        lit: `Whoever is well clothed, but lack human relationships is naked, nonetheless.`, 
+        eng: `Human networks are crucial.`
      }
 ]
