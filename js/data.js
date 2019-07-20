@@ -1133,5 +1133,10 @@ const proverbs = [
         yor: `Ẹni tó láṣọ tí ò léèyàn, ìhòhò ló wà.`,
         lit: `Whoever is well clothed, but lack human relationships is naked, nonetheless.`, 
         eng: `Human networks are crucial.`
+     },
+     {
+        yor: `Àkùkọ tí yóò kọ lágbà, àṣá kò ní gbe lóròmọ adìyẹ.`,
+        lit: `A cock that would crow when grown, wouldn't be picked up by a hawk as a chick.`, 
+        eng: `Keep hope alive; it is not over yet.`
      }
 ]
