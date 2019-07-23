@@ -1138,5 +1138,10 @@ const proverbs = [
         yor: `Àkùkọ tí yóò kọ lágbà, àṣá kò ní gbe lóròmọ adìyẹ.`,
         lit: `A cock that would crow when grown, wouldn't be picked up by a hawk as a chick.`, 
         eng: `Keep hope alive; it is not over yet.`
+     },
+     {
+        yor: `Ẹni tó ńbẹ Ọlọ́run kì í bẹ èyàn.`,
+        lit: `Whoever pleads (his case) with God, won't need to plead with man.`, 
+        eng: `Place your hope in God; He can never fail.`
      }
 ]
