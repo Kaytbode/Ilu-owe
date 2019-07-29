@@ -1143,5 +1143,10 @@ const proverbs = [
         yor: `Ẹni tó ńbẹ Ọlọ́run kì í bẹ èyàn.`,
         lit: `Whoever pleads (his case) with God, won't need to plead with man.`, 
         eng: `Place your hope in God; He can never fail.`
+     },
+     {
+        yor: `Tèmi ò ṣòro, ní kì í jẹ kí ọmọ alágbẹ̀dẹ ní idà.`,
+        lit: `Mine is not an issue, is why the blacksmith ends up not owning a sword.`, 
+        eng: `Procrastination limits us; Do not put off till tomorrow what today can achieve.`
      }
 ]
