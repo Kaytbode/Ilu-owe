@@ -1148,5 +1148,10 @@ const proverbs = [
         yor: `Tèmi ò ṣòro, ní kì í jẹ kí ọmọ alágbẹ̀dẹ ní idà.`,
         lit: `Mine is not an issue, is why the blacksmith ends up not owning a sword.`, 
         eng: `Procrastination limits us; Do not put off till tomorrow what today can achieve.`
+     },
+     {
+        yor: `Tí a bá fi ogún ọdún ṣánpá, ọdún wo la ó fò?`,
+        lit: `If we flap arms for twenty years, when are we going to fly?`, 
+        eng: `Make hay while the sun shines; promptly take advantage of opportunities.`
      }
 ]
