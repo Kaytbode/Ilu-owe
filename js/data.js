@@ -1153,5 +1153,10 @@ const proverbs = [
         yor: `Tí a bá fi ogún ọdún ṣánpá, ọdún wo la ó fò?`,
         lit: `If we flap arms for twenty years, when are we going to fly?`, 
         eng: `Make hay while the sun shines; promptly take advantage of opportunities.`
+     },
+     {
+        yor: `Ohun tó bá máa kan ará ilé, kan ará oko, ìwọ̀nba l’ẹnìkan ńd’ojú kọ ọ́ mọ.`,
+        lit: `A matter that affects everybody must be cautiously confronted singlehandedly by one person.`, 
+        eng: `Don't make a general problem a personal one; there's strength in numbers; cooperate and collaborate`
      }
 ]
