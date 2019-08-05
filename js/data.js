@@ -1158,5 +1158,10 @@ const proverbs = [
         yor: `Ohun tó bá máa kan ará ilé, kan ará oko, ìwọ̀nba l’ẹnìkan ńd’ojú kọ ọ́ mọ.`,
         lit: `A matter that affects everybody must be cautiously confronted singlehandedly by one person.`, 
         eng: `Don't make a general problem a personal one; there's strength in numbers; cooperate and collaborate`
+     },
+     {
+        yor: `Ọbẹ̀ tó dùn kì í pẹ́ nínú ìṣasùn.`,
+        lit: `A tasty soup seldom lasts long in the cooking pot.`, 
+        eng: `Whatever is of value will be in high demand; if it is good, it will be demanded.`
      }
 ]
