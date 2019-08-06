@@ -1163,5 +1163,10 @@ const proverbs = [
         yor: `Ọbẹ̀ tó dùn kì í pẹ́ nínú ìṣasùn.`,
         lit: `A tasty soup seldom lasts long in the cooking pot.`, 
         eng: `Whatever is of value will be in high demand; if it is good, it will be demanded.`
+     },
+     {
+        yor: `Ọgbọ́n ọlọ́gbọ́n ni kì í jẹ́ kí a pe àgbà ní wèrè.`,
+        lit: `By adopting wise counsels from others, elderly persons generally avoid looking foolish.`, 
+        eng: `Be humble to take lessons from anyone; it's what matured people do.`
      }
 ]
