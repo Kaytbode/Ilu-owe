@@ -1168,5 +1168,10 @@ const proverbs = [
         yor: `Ọgbọ́n ọlọ́gbọ́n ni kì í jẹ́ kí a pe àgbà ní wèrè.`,
         lit: `By adopting wise counsels from others, elderly persons generally avoid looking foolish.`, 
         eng: `Be humble to take lessons from anyone; it's what matured people do.`
+     },
+     {
+        yor: `Àmójúkúrò ni í mú ẹ̀mí ìfẹ́ gùn. `,
+        lit: `Willingness to overlook is what makes for an enduring loving relationship.`, 
+        eng: `No one is perfect; tolerance is crucial.`
      }
 ]
