@@ -1173,5 +1173,10 @@ const proverbs = [
         yor: `Àmójúkúrò ni í mú ẹ̀mí ìfẹ́ gùn. `,
         lit: `Willingness to overlook is what makes for an enduring loving relationship.`, 
         eng: `No one is perfect; tolerance is crucial.`
+     },
+     {
+        yor: `Adániwáyé ò gbàgbé ẹnìkan; àìmàsìkò ló ńdààmú ẹ̀dá.`,
+        lit: `God has not forgotten anyone; ignorance of divine timing is what makes us fret.`, 
+        eng: `Keep you hope in God alive; the best is yet to come.`
      }
 ]
