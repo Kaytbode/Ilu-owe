@@ -1178,5 +1178,10 @@ const proverbs = [
         yor: `Adániwáyé ò gbàgbé ẹnìkan; àìmàsìkò ló ńdààmú ẹ̀dá.`,
         lit: `God has not forgotten anyone; ignorance of divine timing is what makes us fret.`, 
         eng: `Keep you hope in God alive; the best is yet to come.`
+     },
+     {
+        yor: `Ojú tí kò rí yànnà yánná iná, yẹ̀rẹ̀ yẹ̀rẹ̀ oòrùn, kì í rí yìndìn yindin idẹ.`,
+        lit: `A pair of eyes that won't endure the fiery flames of fire and the searing glare of the sun, can't enjoy the glittering (beauty) of brass.`, 
+        eng: `No pain, no gain; no guts, no glory.`
      }
 ]
