@@ -1183,5 +1183,10 @@ const proverbs = [
         yor: `Ojú tí kò rí yànnà yánná iná, yẹ̀rẹ̀ yẹ̀rẹ̀ oòrùn, kì í rí yìndìn yindin idẹ.`,
         lit: `A pair of eyes that won't endure the fiery flames of fire and the searing glare of the sun, can't enjoy the glittering (beauty) of brass.`, 
         eng: `No pain, no gain; no guts, no glory.`
+     },
+     {
+        yor: `Ojú ló ńkán àrẹ̀mọ tó ńdé fìlà, tó bá gorí ìtẹ́ bàbá a rẹ̀, yóò dé ohun tó ju àrán lọ.`,
+        lit: `A royal heir who's wearing a cap is simply in haste; he'll get to don far more than velvet caps upon ascending his father's throne.`, 
+        eng: `Be patient; don’t force issues before their time.`
      }
 ]
