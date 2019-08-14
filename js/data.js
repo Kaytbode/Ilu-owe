@@ -1188,5 +1188,10 @@ const proverbs = [
         yor: `Ojú ló ńkán àrẹ̀mọ tó ńdé fìlà, tó bá gorí ìtẹ́ bàbá a rẹ̀, yóò dé ohun tó ju àrán lọ.`,
         lit: `A royal heir who's wearing a cap is simply in haste; he'll get to don far more than velvet caps upon ascending his father's throne.`, 
         eng: `Be patient; don’t force issues before their time.`
+     },
+     {
+        yor: `Afọwọ́fọnná kì í mọ́wọ́ dúró.`,
+        lit: `Whoever packs live coals with his or her hands cannot maintain steady hands.`, 
+        eng: `Seek peace, always; anyone with the proclivity to foment trouble cannot but be under stress.`
      }
 ]
