@@ -1193,5 +1193,10 @@ const proverbs = [
         yor: `Afọwọ́fọnná kì í mọ́wọ́ dúró.`,
         lit: `Whoever packs live coals with his or her hands cannot maintain steady hands.`, 
         eng: `Seek peace, always; anyone with the proclivity to foment trouble cannot but be under stress.`
+     },
+     {
+        yor: `A kò lè tìtorí pé ọ̀bọ àti ìbejì jọ ńjẹ́ ẹdun, kí ọ̀bọ jẹ ọ̀gẹ̀dẹ̀ lóko kí a wá gbá ìbejì létí ní'le.`,
+        lit: `The monkey should not eat up some bananas at the farm and we'd come home to slap the twins, simply because monkeys and twins share the same name.`, 
+        eng: `Be just; be fair`
      }
 ]
