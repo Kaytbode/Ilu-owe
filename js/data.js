@@ -1198,5 +1198,10 @@ const proverbs = [
         yor: `A kò lè tìtorí pé ọ̀bọ àti ìbejì jọ ńjẹ́ ẹdun, kí ọ̀bọ jẹ ọ̀gẹ̀dẹ̀ lóko kí a wá gbá ìbejì létí ní'le.`,
         lit: `The monkey should not eat up some bananas at the farm and we'd come home to slap the twins, simply because monkeys and twins share the same name.`, 
         eng: `Be just; be fair`
+     },
+     {
+        yor: `Èéfín ni ìwà; kò ṣeé fi pamọ́.`,
+        lit: `Character is like smoke; it cannot be covered up.`, 
+        eng: `No hypocrisy; we cannot pretend to be what we are not for very long; ultimately, who we really are will show through.`
      }
 ]
