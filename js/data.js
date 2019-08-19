@@ -1203,5 +1203,10 @@ const proverbs = [
         yor: `Èéfín ni ìwà; kò ṣeé fi pamọ́.`,
         lit: `Character is like smoke; it cannot be covered up.`, 
         eng: `No hypocrisy; we cannot pretend to be what we are not for very long; ultimately, who we really are will show through.`
+     },
+     {
+        yor: `Bíbíire kò ṣeé fi owó rà.`,
+        lit: `A good pedigree cannot be purchased with money.`, 
+        eng: `Money isn't everything; it's not everything that wealth can confer.`
      }
 ]
