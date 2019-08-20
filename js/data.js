@@ -1208,5 +1208,10 @@ const proverbs = [
         yor: `Bíbíire kò ṣeé fi owó rà.`,
         lit: `A good pedigree cannot be purchased with money.`, 
         eng: `Money isn't everything; it's not everything that wealth can confer.`
+     },
+     {
+        yor: `Tí ìṣẹ́ ò bá jẹ́ ká sọ òdodo, àìṣòdodo kò ní jẹ́ ká bọ́ lọ́wọ́ ìṣẹ́.`,
+        lit: `If fear of poverty makes us lie, lying will keep us entrenched in poverty, as well.`, 
+        eng: `Honesty pays; dishonesty often exacts hefty fees, at the end.`
      }
 ]
