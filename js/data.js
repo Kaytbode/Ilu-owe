@@ -1213,5 +1213,10 @@ const proverbs = [
         yor: `Tí ìṣẹ́ ò bá jẹ́ ká sọ òdodo, àìṣòdodo kò ní jẹ́ ká bọ́ lọ́wọ́ ìṣẹ́.`,
         lit: `If fear of poverty makes us lie, lying will keep us entrenched in poverty, as well.`, 
         eng: `Honesty pays; dishonesty often exacts hefty fees, at the end.`
+     },
+     {
+        yor: `Gbogbo ìgbẹ́ kọ́ lọdẹ ti ńpa ọ̀yà; gbogbo ogun kọ́ lakíkanjú ti ńyege.`,
+        lit: `Hunters do not always kill grasscutters in every expedition nor do warriors win every battle.`, 
+        eng: `Win some, lose some; remain undeterred; there'll always be another day; rise up and give it another shot.`
      }
 ]
