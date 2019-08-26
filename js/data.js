@@ -1218,5 +1218,10 @@ const proverbs = [
         yor: `Gbogbo ìgbẹ́ kọ́ lọdẹ ti ńpa ọ̀yà; gbogbo ogun kọ́ lakíkanjú ti ńyege.`,
         lit: `Hunters do not always kill grasscutters in every expedition nor do warriors win every battle.`, 
         eng: `Win some, lose some; remain undeterred; there'll always be another day; rise up and give it another shot.`
+     },
+     {
+        yor: `Ìbàjẹ́ ọjọ́ kan kì í tán lógún ọdún.`,
+        lit: `An indiscretion of one day does not get forgotten in twenty years.`, 
+        eng: `A little indiscretion can be costly; we must jealously guard our good reputation.`
      }
 ]
