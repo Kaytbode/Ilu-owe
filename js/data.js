@@ -1223,5 +1223,10 @@ const proverbs = [
         yor: `Ìbàjẹ́ ọjọ́ kan kì í tán lógún ọdún.`,
         lit: `An indiscretion of one day does not get forgotten in twenty years.`, 
         eng: `A little indiscretion can be costly; we must jealously guard our good reputation.`
+     },
+     {
+        yor: `Àpọ̀jù ọ̀rọ̀ ni í mú'ni pe ọba lẹ́nìkejì ẹni.`,
+        lit: `Talking excessively is what makes one (inadvertently) refers to the king as a colleague.`, 
+        eng: `Moderation is it; too much of anything is bad; exercise self control, always.`
      }
 ]
